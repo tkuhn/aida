@@ -13,12 +13,20 @@ AIDA is a scheme for English sentences. Such sentences are:
   (un)certainty about its truth and ignoring how it was discovered (no
   "probably" or "evaluation showed that"); typically in present tense
 
+
+Publication
+-----------
+
 See the following paper for the details:
 
 > Tobias Kuhn, Paolo Emilio Barbano, Mate Levente Nagy, and Michael Krauthammer.
 > Broadening the Scope of Nanopublications. In _Proceedings of the 10th Extended
 > Semantic Web Conference (ESWC)_. Springer, 2013.
 > http://www.tkuhn.ch/pub/kuhn2013eswc.pdf
+
+
+Examples
+--------
 
 A simple example of an AIDA sentence is:
 
@@ -29,9 +37,12 @@ This is a more specific and more complex example:
 > The degree of hepatic reticuloendothelial function impairment does not differ
 > between cirrhotic patients with and without previous history of SBP.
 
+
+URIs
+----
+
 AIDA sentences can be represented by URIs of the following form:
 
-> http://purl.org/aida/Malaria+is+transmitted+by+moquitoes.
-
-> http://purl.org/aida/The+degree+of+hepatic+reticuloendothelial+function+impairment+does+not+differ+between+cirrhotic+patients+with+and+without+previous+history+of+SBP.
+- http://purl.org/aida/Malaria+is+transmitted+by+moquitoes.
+- http://purl.org/aida/The+degree+of+hepatic+reticuloendothelial+function+impairment+does+not+differ+between+cirrhotic+patients+with+and+without+previous+history+of+SBP.
 
