@@ -20,3 +20,18 @@ See the following paper for the details:
 > Semantic Web Conference (ESWC)_. Springer, 2013.
 > http://www.tkuhn.ch/pub/kuhn2013eswc.pdf
 
+A simple example of an AIDA sentence is:
+
+> Malaria is transmitted by moquitoes.
+
+This is a more specific and more complex example:
+
+> The degree of hepatic reticuloendothelial function impairment does not differ
+> between cirrhotic patients with and without previous history of SBP.
+
+AIDA sentences can be represented by URIs of the following form:
+
+> http://purl.org/aida/Malaria+is+transmitted+by+moquitoes.
+
+> http://purl.org/aida/The+degree+of+hepatic+reticuloendothelial+function+impairment+does+not+differ+between+cirrhotic+patients+with+and+without+previous+history+of+SBP.
+
