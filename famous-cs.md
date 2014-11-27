@@ -3,6 +3,14 @@ Insights from Famous Computer Scientists as AIDA Sentences
 
 (work in progress...)
 
+#### Charles Babbage (1791-1871)
+
+- It is possible to build a fully automatic general-purpose computing machine that can be programmed with arbitrary sequences of encoded instructions.
+
+#### John Backus (1924-2007)
+
+- _(with Peter Naur)_ The Backus-Naur Form is a suitable and effective notation for the definition of context-free languages.
+
 #### Alonso Church (1903-1995)
 
 - The problem of determining the truth of arbitrary propositions in Peano arithmetic is undecidable.
@@ -10,6 +18,18 @@ Insights from Famous Computer Scientists as AIDA Sentences
 #### Edsger Dijkstra (1930-2002)
 
 - The use of GOTO statements in programming is harmful to program structure.
+
+#### Douglas Engelbart (1925-2013)
+
+- Pointing devices as the computer mouse enable very efficient and intuitive interaction with graphical user interfaces.
+
+#### Robert Kowalski (1941-*)
+
+- The subset of first-order logic called Horn clauses can be given a procedural interpretation that is a suitable basis for general-purpose logic-based programming.
+
+#### Ted Nelson (1937-*)
+
+- Hypertext representations are more flexible, more general, and more natural than classical text structure for computer-supported information systems.
 
 #### John von Neumann (1903-1957)
 
@@ -22,3 +42,4 @@ Insights from Famous Computer Scientists as AIDA Sentences
 #### Alan Turing (1912-1954)
 
 - There is no general algorithm that can decide for all possible programs and inputs whether the program will terminate or run forever.
+
