@@ -13,7 +13,8 @@ Insights from Famous Computer Scientists as AIDA Sentences
 
 #### Alonso Church (1903-1995)
 
-- The problem of determining the truth of arbitrary propositions in Peano arithmetic is undecidable.
+- _(also independently by Alan Turing)_ The problem of determining the provability of arbitrary propositions in first-order logic is undecidable.
+- _(with Alan Turing)_ A function on the natural numbers is effectively computable in a general informal sense if and only if it is computable by a Turing machine.
 
 #### Edsger Dijkstra (1930-2002)
 
@@ -55,4 +56,5 @@ Insights from Famous Computer Scientists as AIDA Sentences
 #### Alan Turing (1912-1954)
 
 - There is no general algorithm that can decide for all possible programs and inputs whether the program will terminate or run forever.
+- _(with Alonso Church)_ A function on the natural numbers is effectively computable in a general informal sense if and only if it is computable by a Turing machine.
 
