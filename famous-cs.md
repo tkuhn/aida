@@ -41,6 +41,11 @@ Insights from Famous Computer Scientists as AIDA Sentences
 
 - Computers are more flexible and more powerful if data and program instructions are both stored side by side in the same memory.
 
+#### John McCarthy (1927-2011)
+
+- Artificial intelligence can be achieved by using formal logic to represent and deduce information.
+- Common sense reasoning is a central component of artificial intelligence.
+
 #### Marvin Minsky (1927-*)
 
 - _(with Seymour Papert)_ Single-layer perceptrons cannot learn the XOR relation.
