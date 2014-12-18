@@ -29,6 +29,10 @@ Insights from Famous Computer Scientists as AIDA Sentences
 - No consistent system that defines a certain basic level of arithmetic with a finite or at least decidable set of axioms can prove all true statements that can be written in the language of the system.
 - No consistent system that defines a certain basic level of arithmetic with a finite or at least decidable set of axioms can prove that the system itself is consistent.
 
+#### Michael I. Jordan
+
+- _(with David Blei and Andrew Ng)_ Latent Dirichlet Allocation is a powerful and accurate method for topic modeling on collections of discrete data such as text corpora.
+
 #### Robert Kowalski (1941-*)
 
 - The subset of first-order logic called Horn clauses can be given a procedural interpretation that is a suitable basis for general-purpose logic-based programming.
