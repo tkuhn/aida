@@ -22,7 +22,7 @@ Pattern for more specific AIDA sentences:
 Publications
 ------------
 
-These publications **claim** the above AIDA statement (QUALIFICATOIN in quotes):
+These publications **claim** the above AIDA statement (QUALIFICATION in quotes):
 
 - http://dx.doi.org/10.1017/S1049096514001668 "in political science"
 - http://dx.doi.org/10.2139/ssrn.2506913 "in American law reviews"
