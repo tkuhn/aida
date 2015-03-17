@@ -56,3 +56,6 @@ http://dx.doi.org/10.1073/pnas.1410931111,claims,"The immensly popular languages
 http://dx.doi.org/10.1145/1963405.1963503,claims,"The adoption of politically controversial hashtags on Twitter is especially affected by multiple repeated exposures, while such repeated exposures have a much less important marginal effect on the adoption of conversational idioms."
 http://dx.doi.org/10.1145/1963405.1963503,claims,"The adoption of hashtags on Twitter can be accurately characterized by their ""stickiness"", i.e. the probability of adoption based on one or more exposures, and their ""persistence"", i.e. the relative extent to which repeated exposures to a hashtag continue to have significant marginal effect."
 http://dx.doi.org/10.1186/2041-1480-2-S2-S3,claims,"Linked Data and Semantic Web technologies allow for automated evaluation of scientific hypotheses."
+http://dx.doi.org/10.1109/SP.2014.37,claims,"The protocol of the Bitcoin network can be modified such that its otherwise wasteful mining activity has the positive side effect of distributed storage of archival data."
+http://dx.doi.org/10.1109/SP.2014.37,claims,"Servers of a network can be incentivized to store data locally by applying a network protocol that forces them to repeatedly sign chunks of the data with a private key that cannot be shared without the risk of identity theft."
+
