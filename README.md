@@ -19,10 +19,10 @@ Publication
 
 See the following paper for the details:
 
-> Tobias Kuhn, Paolo Emilio Barbano, Mate Levente Nagy, and Michael Krauthammer.
-> Broadening the Scope of Nanopublications. In _Proceedings of the 10th Extended
-> Semantic Web Conference (ESWC)_. Springer, 2013.
-> http://www.tkuhn.ch/pub/kuhn2013eswc.pdf
+- Tobias Kuhn, Paolo Emilio Barbano, Mate Levente Nagy, and Michael Krauthammer.
+  Broadening the Scope of Nanopublications. In _Proceedings of the 10th Extended
+  Semantic Web Conference (ESWC)_. Springer, 2013.
+  http://arxiv.org/abs/1303.2446
 
 
 Examples
