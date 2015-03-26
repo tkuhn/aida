@@ -60,3 +60,4 @@ http://dx.doi.org/10.1109/SP.2014.37,claims,"The protocol of the Bitcoin network
 http://dx.doi.org/10.1109/SP.2014.37,claims,"Servers of a network can be incentivized to store data locally by applying a network protocol that forces them to repeatedly sign chunks of the data with a private key that cannot be shared without the risk of identity theft."
 http://dx.doi.org/10.1007/978-3-319-11964-9_7,claims,"The concept of ""scientific lenses"" consisting of reusable problem-specific criteria for entity equivalence allows for context-aware dynamic views over Linked Data."
 http://dx.doi.org/10.1087/2009202,claims,"Semantic publishing brings substantial benefits to scholarly communication."
+http://dx.doi.org/10.1371/journal.pcbi.1000361,claims,"Research publications can be enhanced in an accurate and valuable manner by the use of formal semantic representations and based on the simple application of existing Web technology."
