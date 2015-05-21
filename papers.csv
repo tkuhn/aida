@@ -86,3 +86,4 @@ http://dx.doi.org/10.1145/2736277.2741130,claims,"Teenagers reply on average fas
 http://dx.doi.org/10.1145/2736277.2741094,claims,"Short summaries that are automatically generated - using features based on their characterizing and differentiating power, the information overlap between them, and their relevance to the context of entity mention - help human users carry out entity linking tasks more efficiently."
 http://dx.doi.org/10.1145/2736277.2741666,claims,"Human navigation traces on the Web provide valuable information to detect missing hyperlinks."
 http://dx.doi.org/10.1145/2736277.2741143,claims,"With provenance being prevalent within Linked Data and being highly selective, it can be used to improve query processing performance."
+http://dx.doi.org/10.1145/2736277.2741121,claims,"On a wide variety of existing datasets, ""emergent"" relational schemas automatically extracted from RDF data cover more than 90% of the triples."
