@@ -89,3 +89,4 @@ http://dx.doi.org/10.1145/2736277.2741143,claims,"With provenance being prevalen
 http://dx.doi.org/10.1145/2736277.2741121,claims,"On a wide variety of existing datasets, ""emergent"" relational schemas automatically extracted from RDF data cover more than 90% of the triples."
 http://dx.doi.org/10.1145/2736277.2741103,claims,"Active learning techniques can make the manual construction of RDF data more efficient."
 http://dx.doi.org/10.1145/2736277.2741628,claims,"The Inverse Document Frequency (IDF) of a term is equal to the distance between the term and the empty string in the space of information distance in which the Kolmogorov complexity is approximated using Web documents and the Shannon-Fano coding."
+http://dx.doi.org/10.1145/2736277.2741673,claims,"Statistical language models for texts in social networks can be made more accurate by smoothing the language model via influence propagation."
