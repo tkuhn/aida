@@ -116,3 +116,5 @@ http://arxiv.org/abs/1412.2007,claims,"Deep learning is a powerful and accurate 
 http://papers.nips.cc/paper/5346-information-based-learning-by-agents-in-unbounded-state-spaces,claims,"Deep learning is a powerful and accurate method for machine translation."
 http://dx.doi.org/10.1073/pnas.1304917110,claims,"Ant colonies outperform individuals for difficult sensory discrimination tasks."
 http://dx.doi.org/10.1073/pnas.1304917110,claims,"Individual ants outperform ant colonies for easy sensory discrimination tasks."
+http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network,claims,"Convolutional neural networks are much easier to train than networks with full connectivity between adjacent layers."
+http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network,claims,"Convolutional neural networks are much easier to generalize than networks with full connectivity between adjacent layers."
