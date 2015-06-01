@@ -1,4 +1,4 @@
-URI,RELATION,AIDA-SENTENCE
+URI,RELATION,AIDA-SENTENCE,VIA
 http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"Nanopublications containing informal assertions in the form of AIDA sentences are a practical approach to advance scientific communication."
 http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"Scientists are able to efficiently produce high-quality nanopublications containing informal assertions in the form of AIDA sentences."
 http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"It is feasible to extract high-quality nanopublications containing informal assertions in the form of AIDA sentences from existing text resources."
@@ -98,22 +98,22 @@ http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"Team sizes for groups
 http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"Teamwork between innovators is more prevalent in fields with deeper knowledge."
 http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The degree of specialization of innovators is greater in fields with deeper knowledge."
 http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The age of innovators at their first invention is similar across fields of different knowledge depth."
-http://papers.nips.cc/paper/4824-imagenet,claims,"Deep learning is a powerful and accurate method for automatic image recognition."
-http://dx.doi.org/10.1109/TPAMI.2012.231,claims,"Deep learning is a powerful and accurate method for automatic image recognition."
-http://papers.nips.cc/paper/5573-stochastic-network-design-in-bidirected-trees,claims,"Deep learning is a powerful and accurate method for automatic image recognition."
-http://arxiv.org/abs/1409.4842,claims,"Deep learning is a powerful and accurate method for automatic image recognition."
-http://dx.doi.org/10.1109/ASRU.2011.6163930,claims,"Deep learning is a powerful and accurate method for automatic speech recognition."
-http://dx.doi.org/10.1109/MSP.2012.2205597,claims,"Deep learning is a powerful and accurate method for automatic speech recognition."
-http://dx.doi.org/10.1109/ICASSP.2013.6639347,claims,"Deep learning is a powerful and accurate method for automatic speech recognition."
-http://dx.doi.org/10.1021/ci500747n,claims,"Deep learning is a powerful and accurate method to predict the activity of potential drug molecules."
-http://dx.doi.org/10.1088/1742-6596/368/1/012030,claims,"Deep learning is a powerful and accurate method to analyze data from particle accelerator experiments."
-http://www.nature.com/doifinder/10.1038/nature12346,claims,"Deep learning is a powerful and accurate method to reconstruct brain circuits."
-http://dx.doi.org/10.1093/bioinformatics/btu277,claims,"Deep learning is a powerful and accurate method to predict the effects of mutations in non-coding DNA on gene expression."
-http://dx.doi.org/10.1126/science.1254806,claims,"Deep learning is a powerful and accurate method to predict the effects of mutations in non-coding DNA on diseases."
-http://dl.acm.org/citation.cfm?id=2078186,claims,"Deep learning is a powerful and accurate method for automatic natural language understanding."
-http://anthology.aclweb.org/D/D14/D14-1067.pdf,claims,"Deep learning is a powerful and accurate method for automatic question answering."
-http://arxiv.org/abs/1412.2007,claims,"Deep learning is a powerful and accurate method for machine translation."
-http://papers.nips.cc/paper/5346-information-based-learning-by-agents-in-unbounded-state-spaces,claims,"Deep learning is a powerful and accurate method for machine translation."
+http://papers.nips.cc/paper/4824-imagenet,claims,"Deep learning is a powerful and accurate method for automatic image recognition.",http://dx.doi.org/10.1038/nature14539
+http://dx.doi.org/10.1109/TPAMI.2012.231,claims,"Deep learning is a powerful and accurate method for automatic image recognition.",http://dx.doi.org/10.1038/nature14539
+http://papers.nips.cc/paper/5573-stochastic-network-design-in-bidirected-trees,claims,"Deep learning is a powerful and accurate method for automatic image recognition.",http://dx.doi.org/10.1038/nature14539
+http://arxiv.org/abs/1409.4842,claims,"Deep learning is a powerful and accurate method for automatic image recognition.",http://dx.doi.org/10.1038/nature14539
+http://dx.doi.org/10.1109/ASRU.2011.6163930,claims,"Deep learning is a powerful and accurate method for automatic speech recognition.",http://dx.doi.org/10.1038/nature14539
+http://dx.doi.org/10.1109/MSP.2012.2205597,claims,"Deep learning is a powerful and accurate method for automatic speech recognition.",http://dx.doi.org/10.1038/nature14539
+http://dx.doi.org/10.1109/ICASSP.2013.6639347,claims,"Deep learning is a powerful and accurate method for automatic speech recognition.",http://dx.doi.org/10.1038/nature14539
+http://dx.doi.org/10.1021/ci500747n,claims,"Deep learning is a powerful and accurate method to predict the activity of potential drug molecules.",http://dx.doi.org/10.1038/nature14539
+http://dx.doi.org/10.1088/1742-6596/368/1/012030,claims,"Deep learning is a powerful and accurate method to analyze data from particle accelerator experiments.",http://dx.doi.org/10.1038/nature14539
+http://www.nature.com/doifinder/10.1038/nature12346,claims,"Deep learning is a powerful and accurate method to reconstruct brain circuits.",http://dx.doi.org/10.1038/nature14539
+http://dx.doi.org/10.1093/bioinformatics/btu277,claims,"Deep learning is a powerful and accurate method to predict the effects of mutations in non-coding DNA on gene expression.",http://dx.doi.org/10.1038/nature14539
+http://dx.doi.org/10.1126/science.1254806,claims,"Deep learning is a powerful and accurate method to predict the effects of mutations in non-coding DNA on diseases.",http://dx.doi.org/10.1038/nature14539
+http://dl.acm.org/citation.cfm?id=2078186,claims,"Deep learning is a powerful and accurate method for automatic natural language understanding.",http://dx.doi.org/10.1038/nature14539
+http://anthology.aclweb.org/D/D14/D14-1067.pdf,claims,"Deep learning is a powerful and accurate method for automatic question answering.",http://dx.doi.org/10.1038/nature14539
+http://arxiv.org/abs/1412.2007,claims,"Deep learning is a powerful and accurate method for machine translation.",http://dx.doi.org/10.1038/nature14539
+http://papers.nips.cc/paper/5346-information-based-learning-by-agents-in-unbounded-state-spaces,claims,"Deep learning is a powerful and accurate method for machine translation.",http://dx.doi.org/10.1038/nature14539
 http://dx.doi.org/10.1073/pnas.1304917110,claims,"Ant colonies outperform individuals for difficult sensory discrimination tasks."
 http://dx.doi.org/10.1073/pnas.1304917110,claims,"Individual ants outperform ant colonies for easy sensory discrimination tasks."
 http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network,claims,"Convolutional neural networks are much easier to train than networks with full connectivity between adjacent layers."
