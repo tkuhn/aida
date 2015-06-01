@@ -1,103 +1,103 @@
 URI,RELATION,AIDA-SENTENCE,VIA
-http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"Nanopublications containing informal assertions in the form of AIDA sentences are a practical approach to advance scientific communication."
-http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"Scientists are able to efficiently produce high-quality nanopublications containing informal assertions in the form of AIDA sentences."
-http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"It is feasible to extract high-quality nanopublications containing informal assertions in the form of AIDA sentences from existing text resources."
-http://dl.acm.org/citation.cfm?id=2488416,claims,"Online community members generally undergo two stages with respect to their susceptibility to linguistic change: a learning phase in which users adopt the language of the community followed by a conservative phase in which users stop changing."
-http://dl.acm.org/citation.cfm?id=2488416,claims,"The life-cycles of online community members with respect their susceptibility to linguistic change show a universal pattern of increasingly progressive language for about the first third and increasingly conservative language for the rest of the individual's eventual lifespan in terms of number of contributions."
-http://dx.doi.org/10.1145/2484028.2484053,claims,"Search engine users seek to confirm their beliefs when asking yes/no-questions."
-http://dx.doi.org/10.1145/2484028.2484053,claims,"Results of search engines to yes/no-questions are positively-skewed (i.e. biased towards ""yes""), irrespective of the truth."
-http://dx.doi.org/10.1145/2484028.2484053,claims,"Search engine users are more likely to select positive (yes) information from the results of search engines for yes/no-questions."
-http://dx.doi.org/10.1145/2484028.2484053,claims,"A combination of system and searcher biases lead search engine users to settle on the incorrect answer to yes/no-questions around half of the time."
-http://dx.doi.org/10.1038/nature09923,claims,"Systemic linkages of language traits across languages of different language families are rather the exception than the rule."
-http://dx.doi.org/10.1038/nature09923,claims,"Linguistic diversity across languages is the product of cultural evolution."
-urn:isbn:0-670-03151-8,claims,"The mind is not a ""blank slate"" but has innate traits."
-urn:isbn:978-0-374-29002-3,claims,"The Western dominance over most of the last 15,000 years can be best explained by physical geography rather than culture, religion, politics, genetics, or great men."
-http://pup.princeton.edu/titles/8277.html,claims,"Various kinds of social orders, including segregated, discriminatory, and class systems, can arise through the decentralized interactions of many agents in which accidents of history become reinforced over time."
-http://pup.princeton.edu/titles/8277.html,claims,"In the path-dependent dynamics of history where accidents become reinforced over time, society may self-organize around distinctions that are arbitrary from an a priori standpoint."
-http://pup.princeton.edu/titles/8277.html,claims,"For social systems under idealized conditions where equity norms have an advantage over discriminatory norms, long-lived regimes can emerge that are far from equitable and highly inefficient."
-urn:isbn:978-0-393-31755-8,claims,"History followed different courses for different peoples because of differences among peoples' environments, not because of biological differences among peoples themselves."
-http://dx.doi.org/10.1109/JPROC.2014.2307022,reviews,"Value-based learning is a good model of general learning abilities of animals and humans."
-http://dx.doi.org/10.1109/JPROC.2014.2307022,reviews,"Policy-gradient learning is a good model of general learning abilities of animals and humans."
-http://dx.doi.org/10.1016/0004-3702(94)00041-X,claims,"Nonmonotonic reasoning as studied in AI and logic programming can be subsumed by a general theory of argumentation based on the acceptability of arguments."
-http://dx.doi.org/10.1016/0004-3702(94)00041-X,claims,"Certain n-person games as studied in game theory and economics can also be modeled and understood by applying a general theory of argumentation based on the acceptability of arguments."
-http://www.sciencemag.org/content/286/5439/509,claims,"The generic mechanisms of network growth and preferential attachment are sufficient to generate scale-free networks."
-http://dx.doi.org/10.1073/pnas.1319042111,hypothesizes,"Word order SOV is more stable over the time of language evolution than SVO."
-http://dx.doi.org/10.1073/pnas.1319042111,claims,"SOV and SVO are the two most stable word orders over the time of language evolution."
-http://dx.doi.org/10.1073/pnas.1319042111,claims,"After SOV and SVO, VSO is the most stable word order over the time of language evolution."
-http://dx.doi.org/10.1073/pnas.1319042111,claims,"Languages with SOV word order are more likely to change to SVO than to VSO over the time of language evolution."
-http://dx.doi.org/10.1073/pnas.1319042111,claims,"Languages with VSO word order are more likely to change to SVO than to SOV over the time of language evolution."
-http://dx.doi.org/10.1073/pnas.1319042111,claims,"Word-order change over the time of language evoluation is best characterized as being dominated by slow cycles between SOV and SVO and faster cycles between SVO and VSO."
-http://dx.doi.org/10.1073/pnas.1319042111,hypothesizes,"SOV is the common ancestral word order in the evolution of languages over time."
-http://dl.acm.org/citation.cfm?id=944937,claims,"Latent Dirichlet allocation is an appropriate and useful model for collections of discrete data such as text corpora."
-http://dx.doi.org/10.1145/2500892,claims,"Information systems, information science, and information retrieval were the fasted-growing research areas of computer science during 1990-2010."
-http://dx.doi.org/10.1145/2500892,claims,"The amount of research on mathematical foundations in computer science decreased during 1990-2010."
-http://dx.doi.org/10.1145/2500892,claims,"A typical computer scientist's research focus changes in a cycle of roughly 5 to 10 years."
-http://dx.doi.org/10.1145/2500892,claims,"New research topics in computer science are typically first mentioned in grant proposals and only later in publications."
-http://dx.doi.org/10.1126/science.149.3683.510,claims,"Over the long run and over the entire world literature, on the average, every scientific paper ever published is cited about once a year."
-http://dx.doi.org/10.1126/science.149.3683.510,hypothesizes,"Every year about 10 percent of all scientific papers ""die,"" not to be cited again, and for the ""live"" papers the chance of being cited at least once in any year is about 60 percent."
-http://dx.doi.org/10.1126/science.149.3683.510,hypothesizes,"About half the bibliographic references in scientific papers represent tight links with rather recent papers, the other half representing a uniform and less tight linkage to all that has been published before."
-http://dx.doi.org/10.1126/science.159.3810.56,claims,"Already eminent scientists are given disproportionately large credit in in cases of collaboration or of independent multiple discoveries."
-http://dx.doi.org/10.1126/science.159.3810.56,claims,"The Matthew effect in science heightens the visibility of contributions by scientists of acknowledged standing and reduces the visibility of contributions by authors who are less well known."
-http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is generally superior to the Internet Protocol (IP) given way the internet is currently used."
-http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is as scalable as the Internet Protocol (IP)."
-http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is superior to the Internet Protocol (IP) in terms of security."
-http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is superior to the Internet Protocol (IP) in terms of delivery efficiency."
-http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is superior to the Internet Protocol (IP) in terms of disruption tolerance."
-http://dx.doi.org/10.1038/35019019,claims,"Many complex systems owe their error-tolerance to their structure as scale-free networks."
-http://dx.doi.org/10.1038/35019019,claims,"Many complex systems are vulnerable to attacks because of their structure as scale-free networks."
-http://www.jstor.org/stable/116823,claims,"Certain types of altruistic behavior are better explained based on imitation than utility maximization."
-http://www.jstor.org/stable/116823,claims,"Altruistic behavior can survive if players imitate successful players and the players' interaction and learning is local."
-http://dx.doi.org/10.1002/asi.4630240406,claims,"Co-citations are a good measure for the degree of intellectual connections among scientific articles."
-http://dx.doi.org/10.1002/asi.4630240406,claims,"Co-citations measures are a good technique for monitoring the development of scientific fields."
-https://research.microsoft.com/jump/189726,claims,"Vector differences accurately capture syntactic and semantic relations for vector-space word representations trained by recurrent neural networks on text corpora."
-http://dx.doi.org/10.1073/pnas.1410931111,claims,"The number of famous people for different languages strongly correlates with the language's Eigenvector centrality in the global language network of translations and bilingual speakers."
-http://dx.doi.org/10.1073/pnas.1410931111,claims,"The world's languages exhibit a hierarchical structure dominated by English as its a central hub and with intermediate hubs that include German, French, and Spanish."
-http://dx.doi.org/10.1073/pnas.1410931111,claims,"The immensly popular languages Chinese, Arabic, and Hindi have only a limited importance in the global language network of translations and bilingual speakers."
-http://dx.doi.org/10.1145/1963405.1963503,claims,"The adoption of politically controversial hashtags on Twitter is especially affected by multiple repeated exposures, while such repeated exposures have a much less important marginal effect on the adoption of conversational idioms."
-http://dx.doi.org/10.1145/1963405.1963503,claims,"The adoption of hashtags on Twitter can be accurately characterized by their ""stickiness"", i.e. the probability of adoption based on one or more exposures, and their ""persistence"", i.e. the relative extent to which repeated exposures to a hashtag continue to have significant marginal effect."
-http://dx.doi.org/10.1186/2041-1480-2-S2-S3,claims,"Linked Data and Semantic Web technologies allow for automated evaluation of scientific hypotheses."
-http://dx.doi.org/10.1109/SP.2014.37,claims,"The protocol of the Bitcoin network can be modified such that its otherwise wasteful mining activity has the positive side effect of distributed storage of archival data."
-http://dx.doi.org/10.1109/SP.2014.37,claims,"Servers of a network can be incentivized to store data locally by applying a network protocol that forces them to repeatedly sign chunks of the data with a private key that cannot be shared without the risk of identity theft."
-http://dx.doi.org/10.1007/978-3-319-11964-9_7,claims,"The concept of ""scientific lenses"" consisting of reusable problem-specific criteria for entity equivalence allows for context-aware dynamic views over Linked Data."
-http://dx.doi.org/10.1087/2009202,claims,"Semantic publishing brings substantial benefits to scholarly communication."
-http://dx.doi.org/10.1371/journal.pcbi.1000361,claims,"Research publications can be enhanced in an accurate and valuable manner by the use of formal semantic representations and based on the simple application of existing Web technology."
-http://dx.doi.org/10.1038/35074206,claims,"Scientific papers with machine-readable semantic markup facilitate the development of automated methods for helping scientists to find and understand the content produced in other scientific disciplines."
-http://dx.doi.org/10.1038/35074206,claims,"Scientific papers with machine-readable semantic markup allow scientific concepts to be progressively linked into a universal web of knowledge."
-urn:isbn:0-14-027541-X,claims,"We are not heading away from a state in which one person could understand everything that is understood, but towards it."
-urn:isbn:0-14-027541-X,claims,"Scientific knowledge, like all human knowledge, consists primarily of explanations."
-http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, matches the price of anarchy exactly (where players play according to a Nash equilibrium) for Hotelling games, even if the play itself is not approaching equilibrium."
-http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, matches the price of anarchy exactly (where players play according to a Nash equilibrium) for valid games [Vetta 2002], even if the play itself is not approaching equilibrium."
-http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, matches the price of anarchy exactly (where players play according to a Nash equilibrium) for linear congestion games with atomic players and unsplittable flow, even if the play itself is not approaching equilibrium."
-http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, matches the price of anarchy exactly (where players play according to a Nash equilibrium) for parallel link congestion games with n = 2 and the makespan as the social cost function, even if the play itself is not approaching equilibrium."
-http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, is exponentially greater than the price of anarchy (where players play according to a Nash equilibrium) for parallel link congestion games with n > 2 and the makespan as the social cost function."
-http://dx.doi.org/10.1002/asi.22748,discusses,"For clustering scientific publications, direct citation relations are more accurate as a measure of the relatedness of publications than co-citations and bibliographic coupling."
-http://dx.doi.org/10.1002/asi.22748,claims,"Publication-level approaches of scientific classification systems are more appropriate than journal-level approaches."
-http://dx.doi.org/10.1145/2736277.2741661,claims,"Users jump more between different online communities as they become older."
-http://dx.doi.org/10.1145/2736277.2741120,claims,"Project success is an important factor for donor retention for online crowdfunding."
-http://dx.doi.org/10.1145/2736277.2741120,claims,"The timeliness of the acknowledgment of the donors' support is an important factor for donor retention for online crowdfunding."
-http://dx.doi.org/10.1145/2736277.2741120,claims,"The timeliness of the feedback to the donors about the impact of the project is an important factor for donor retention for online crowdfunding."
-http://dx.doi.org/10.1145/2736277.2741099,claims,"When people search for information on the web, they mostly end up accessing information they agree with."
-http://dx.doi.org/10.1145/2736277.2741099,claims,"Web sites about polarizing topics show in general low diversity in stances that are presented."
-http://dx.doi.org/10.1145/2736277.2741099,claims,"If an external event threatens to influence certain web users directly, then these users afterwards tend to explore more content outside their filter bubble."
-http://dx.doi.org/10.1145/2736277.2741130,claims,"When users receive more email messages in a day, they reply to a smaller fraction of them."
-http://dx.doi.org/10.1145/2736277.2741130,claims,"When users receive more email messages in a day, they use shorter texts as replies."
-http://dx.doi.org/10.1145/2736277.2741130,claims,"When users receive more email messages in a day, the time to reply decreases for the emails that are eventually answered."
-http://dx.doi.org/10.1145/2736277.2741130,claims,"Email replies by teenagers are on average shorter than those by adults."
-http://dx.doi.org/10.1145/2736277.2741130,claims,"Teenagers reply on average faster to emails than adults."
-http://dx.doi.org/10.1145/2736277.2741094,claims,"Short summaries that are automatically generated - using features based on their characterizing and differentiating power, the information overlap between them, and their relevance to the context of entity mention - help human users carry out entity linking tasks more efficiently."
-http://dx.doi.org/10.1145/2736277.2741666,claims,"Human navigation traces on the Web provide valuable information to detect missing hyperlinks."
-http://dx.doi.org/10.1145/2736277.2741143,claims,"With provenance being prevalent within Linked Data and being highly selective, it can be used to improve query processing performance."
-http://dx.doi.org/10.1145/2736277.2741121,claims,"On a wide variety of existing datasets, ""emergent"" relational schemas automatically extracted from RDF data cover more than 90% of the triples."
-http://dx.doi.org/10.1145/2736277.2741103,claims,"Active learning techniques can make the manual construction of RDF data more efficient."
-http://dx.doi.org/10.1145/2736277.2741628,claims,"The Inverse Document Frequency (IDF) of a term is equal to the distance between the term and the empty string in the space of information distance in which the Kolmogorov complexity is approximated using Web documents and the Shannon-Fano coding."
-http://dx.doi.org/10.1145/2736277.2741673,claims,"Statistical language models for texts in social networks can be made more accurate by smoothing the language model via influence propagation."
-http://dx.doi.org/10.1145/2736277.2741688,claims,"Quoting patterns can be used to quantify and characterize the degree to which media outlets exhibit systematic bias."
-http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The age of innovators at their first invention is increasing over time."
-http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The degree of specialization of innovators is increasing over time."
-http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"Team sizes for groups of innovators are increasing over time."
-http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"Teamwork between innovators is more prevalent in fields with deeper knowledge."
-http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The degree of specialization of innovators is greater in fields with deeper knowledge."
-http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The age of innovators at their first invention is similar across fields of different knowledge depth."
+http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"Nanopublications containing informal assertions in the form of AIDA sentences are a practical approach to advance scientific communication.",
+http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"Scientists are able to efficiently produce high-quality nanopublications containing informal assertions in the form of AIDA sentences.",
+http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"It is feasible to extract high-quality nanopublications containing informal assertions in the form of AIDA sentences from existing text resources.",
+http://dl.acm.org/citation.cfm?id=2488416,claims,"Online community members generally undergo two stages with respect to their susceptibility to linguistic change: a learning phase in which users adopt the language of the community followed by a conservative phase in which users stop changing.",
+http://dl.acm.org/citation.cfm?id=2488416,claims,"The life-cycles of online community members with respect their susceptibility to linguistic change show a universal pattern of increasingly progressive language for about the first third and increasingly conservative language for the rest of the individual's eventual lifespan in terms of number of contributions.",
+http://dx.doi.org/10.1145/2484028.2484053,claims,"Search engine users seek to confirm their beliefs when asking yes/no-questions.",
+http://dx.doi.org/10.1145/2484028.2484053,claims,"Results of search engines to yes/no-questions are positively-skewed (i.e. biased towards ""yes""), irrespective of the truth.",
+http://dx.doi.org/10.1145/2484028.2484053,claims,"Search engine users are more likely to select positive (yes) information from the results of search engines for yes/no-questions.",
+http://dx.doi.org/10.1145/2484028.2484053,claims,"A combination of system and searcher biases lead search engine users to settle on the incorrect answer to yes/no-questions around half of the time.",
+http://dx.doi.org/10.1038/nature09923,claims,"Systemic linkages of language traits across languages of different language families are rather the exception than the rule.",
+http://dx.doi.org/10.1038/nature09923,claims,"Linguistic diversity across languages is the product of cultural evolution.",
+urn:isbn:0-670-03151-8,claims,"The mind is not a ""blank slate"" but has innate traits.",
+urn:isbn:978-0-374-29002-3,claims,"The Western dominance over most of the last 15,000 years can be best explained by physical geography rather than culture, religion, politics, genetics, or great men.",
+http://pup.princeton.edu/titles/8277.html,claims,"Various kinds of social orders, including segregated, discriminatory, and class systems, can arise through the decentralized interactions of many agents in which accidents of history become reinforced over time.",
+http://pup.princeton.edu/titles/8277.html,claims,"In the path-dependent dynamics of history where accidents become reinforced over time, society may self-organize around distinctions that are arbitrary from an a priori standpoint.",
+http://pup.princeton.edu/titles/8277.html,claims,"For social systems under idealized conditions where equity norms have an advantage over discriminatory norms, long-lived regimes can emerge that are far from equitable and highly inefficient.",
+urn:isbn:978-0-393-31755-8,claims,"History followed different courses for different peoples because of differences among peoples' environments, not because of biological differences among peoples themselves.",
+http://dx.doi.org/10.1109/JPROC.2014.2307022,reviews,"Value-based learning is a good model of general learning abilities of animals and humans.",
+http://dx.doi.org/10.1109/JPROC.2014.2307022,reviews,"Policy-gradient learning is a good model of general learning abilities of animals and humans.",
+http://dx.doi.org/10.1016/0004-3702(94)00041-X,claims,"Nonmonotonic reasoning as studied in AI and logic programming can be subsumed by a general theory of argumentation based on the acceptability of arguments.",
+http://dx.doi.org/10.1016/0004-3702(94)00041-X,claims,"Certain n-person games as studied in game theory and economics can also be modeled and understood by applying a general theory of argumentation based on the acceptability of arguments.",
+http://www.sciencemag.org/content/286/5439/509,claims,"The generic mechanisms of network growth and preferential attachment are sufficient to generate scale-free networks.",
+http://dx.doi.org/10.1073/pnas.1319042111,hypothesizes,"Word order SOV is more stable over the time of language evolution than SVO.",
+http://dx.doi.org/10.1073/pnas.1319042111,claims,"SOV and SVO are the two most stable word orders over the time of language evolution.",
+http://dx.doi.org/10.1073/pnas.1319042111,claims,"After SOV and SVO, VSO is the most stable word order over the time of language evolution.",
+http://dx.doi.org/10.1073/pnas.1319042111,claims,"Languages with SOV word order are more likely to change to SVO than to VSO over the time of language evolution.",
+http://dx.doi.org/10.1073/pnas.1319042111,claims,"Languages with VSO word order are more likely to change to SVO than to SOV over the time of language evolution.",
+http://dx.doi.org/10.1073/pnas.1319042111,claims,"Word-order change over the time of language evoluation is best characterized as being dominated by slow cycles between SOV and SVO and faster cycles between SVO and VSO.",
+http://dx.doi.org/10.1073/pnas.1319042111,hypothesizes,"SOV is the common ancestral word order in the evolution of languages over time.",
+http://dl.acm.org/citation.cfm?id=944937,claims,"Latent Dirichlet allocation is an appropriate and useful model for collections of discrete data such as text corpora.",
+http://dx.doi.org/10.1145/2500892,claims,"Information systems, information science, and information retrieval were the fasted-growing research areas of computer science during 1990-2010.",
+http://dx.doi.org/10.1145/2500892,claims,"The amount of research on mathematical foundations in computer science decreased during 1990-2010.",
+http://dx.doi.org/10.1145/2500892,claims,"A typical computer scientist's research focus changes in a cycle of roughly 5 to 10 years.",
+http://dx.doi.org/10.1145/2500892,claims,"New research topics in computer science are typically first mentioned in grant proposals and only later in publications.",
+http://dx.doi.org/10.1126/science.149.3683.510,claims,"Over the long run and over the entire world literature, on the average, every scientific paper ever published is cited about once a year.",
+http://dx.doi.org/10.1126/science.149.3683.510,hypothesizes,"Every year about 10 percent of all scientific papers ""die,"" not to be cited again, and for the ""live"" papers the chance of being cited at least once in any year is about 60 percent.",
+http://dx.doi.org/10.1126/science.149.3683.510,hypothesizes,"About half the bibliographic references in scientific papers represent tight links with rather recent papers, the other half representing a uniform and less tight linkage to all that has been published before.",
+http://dx.doi.org/10.1126/science.159.3810.56,claims,"Already eminent scientists are given disproportionately large credit in in cases of collaboration or of independent multiple discoveries.",
+http://dx.doi.org/10.1126/science.159.3810.56,claims,"The Matthew effect in science heightens the visibility of contributions by scientists of acknowledged standing and reduces the visibility of contributions by authors who are less well known.",
+http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is generally superior to the Internet Protocol (IP) given way the internet is currently used.",
+http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is as scalable as the Internet Protocol (IP).",
+http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is superior to the Internet Protocol (IP) in terms of security.",
+http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is superior to the Internet Protocol (IP) in terms of delivery efficiency.",
+http://dx.doi.org/10.1145/2063176.2063204,claims,"Content-Centric Networking (CCN), centering on named content instead of hosts, is superior to the Internet Protocol (IP) in terms of disruption tolerance.",
+http://dx.doi.org/10.1038/35019019,claims,"Many complex systems owe their error-tolerance to their structure as scale-free networks.",
+http://dx.doi.org/10.1038/35019019,claims,"Many complex systems are vulnerable to attacks because of their structure as scale-free networks.",
+http://www.jstor.org/stable/116823,claims,"Certain types of altruistic behavior are better explained based on imitation than utility maximization.",
+http://www.jstor.org/stable/116823,claims,"Altruistic behavior can survive if players imitate successful players and the players' interaction and learning is local.",
+http://dx.doi.org/10.1002/asi.4630240406,claims,"Co-citations are a good measure for the degree of intellectual connections among scientific articles.",
+http://dx.doi.org/10.1002/asi.4630240406,claims,"Co-citations measures are a good technique for monitoring the development of scientific fields.",
+https://research.microsoft.com/jump/189726,claims,"Vector differences accurately capture syntactic and semantic relations for vector-space word representations trained by recurrent neural networks on text corpora.",
+http://dx.doi.org/10.1073/pnas.1410931111,claims,"The number of famous people for different languages strongly correlates with the language's Eigenvector centrality in the global language network of translations and bilingual speakers.",
+http://dx.doi.org/10.1073/pnas.1410931111,claims,"The world's languages exhibit a hierarchical structure dominated by English as its a central hub and with intermediate hubs that include German, French, and Spanish.",
+http://dx.doi.org/10.1073/pnas.1410931111,claims,"The immensly popular languages Chinese, Arabic, and Hindi have only a limited importance in the global language network of translations and bilingual speakers.",
+http://dx.doi.org/10.1145/1963405.1963503,claims,"The adoption of politically controversial hashtags on Twitter is especially affected by multiple repeated exposures, while such repeated exposures have a much less important marginal effect on the adoption of conversational idioms.",
+http://dx.doi.org/10.1145/1963405.1963503,claims,"The adoption of hashtags on Twitter can be accurately characterized by their ""stickiness"", i.e. the probability of adoption based on one or more exposures, and their ""persistence"", i.e. the relative extent to which repeated exposures to a hashtag continue to have significant marginal effect.",
+http://dx.doi.org/10.1186/2041-1480-2-S2-S3,claims,"Linked Data and Semantic Web technologies allow for automated evaluation of scientific hypotheses.",
+http://dx.doi.org/10.1109/SP.2014.37,claims,"The protocol of the Bitcoin network can be modified such that its otherwise wasteful mining activity has the positive side effect of distributed storage of archival data.",
+http://dx.doi.org/10.1109/SP.2014.37,claims,"Servers of a network can be incentivized to store data locally by applying a network protocol that forces them to repeatedly sign chunks of the data with a private key that cannot be shared without the risk of identity theft.",
+http://dx.doi.org/10.1007/978-3-319-11964-9_7,claims,"The concept of ""scientific lenses"" consisting of reusable problem-specific criteria for entity equivalence allows for context-aware dynamic views over Linked Data.",
+http://dx.doi.org/10.1087/2009202,claims,"Semantic publishing brings substantial benefits to scholarly communication.",
+http://dx.doi.org/10.1371/journal.pcbi.1000361,claims,"Research publications can be enhanced in an accurate and valuable manner by the use of formal semantic representations and based on the simple application of existing Web technology.",
+http://dx.doi.org/10.1038/35074206,claims,"Scientific papers with machine-readable semantic markup facilitate the development of automated methods for helping scientists to find and understand the content produced in other scientific disciplines.",
+http://dx.doi.org/10.1038/35074206,claims,"Scientific papers with machine-readable semantic markup allow scientific concepts to be progressively linked into a universal web of knowledge.",
+urn:isbn:0-14-027541-X,claims,"We are not heading away from a state in which one person could understand everything that is understood, but towards it.",
+urn:isbn:0-14-027541-X,claims,"Scientific knowledge, like all human knowledge, consists primarily of explanations.",
+http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, matches the price of anarchy exactly (where players play according to a Nash equilibrium) for Hotelling games, even if the play itself is not approaching equilibrium.",
+http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, matches the price of anarchy exactly (where players play according to a Nash equilibrium) for valid games [Vetta 2002], even if the play itself is not approaching equilibrium.",
+http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, matches the price of anarchy exactly (where players play according to a Nash equilibrium) for linear congestion games with atomic players and unsplittable flow, even if the play itself is not approaching equilibrium.",
+http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, matches the price of anarchy exactly (where players play according to a Nash equilibrium) for parallel link congestion games with n = 2 and the makespan as the social cost function, even if the play itself is not approaching equilibrium.",
+http://dx.doi.org/10.1145/1374376.1374430,claims,"The ""price of total anarchy"", where players only apply regret minimization, is exponentially greater than the price of anarchy (where players play according to a Nash equilibrium) for parallel link congestion games with n > 2 and the makespan as the social cost function.",
+http://dx.doi.org/10.1002/asi.22748,discusses,"For clustering scientific publications, direct citation relations are more accurate as a measure of the relatedness of publications than co-citations and bibliographic coupling.",
+http://dx.doi.org/10.1002/asi.22748,claims,"Publication-level approaches of scientific classification systems are more appropriate than journal-level approaches.",
+http://dx.doi.org/10.1145/2736277.2741661,claims,"Users jump more between different online communities as they become older.",
+http://dx.doi.org/10.1145/2736277.2741120,claims,"Project success is an important factor for donor retention for online crowdfunding.",
+http://dx.doi.org/10.1145/2736277.2741120,claims,"The timeliness of the acknowledgment of the donors' support is an important factor for donor retention for online crowdfunding.",
+http://dx.doi.org/10.1145/2736277.2741120,claims,"The timeliness of the feedback to the donors about the impact of the project is an important factor for donor retention for online crowdfunding.",
+http://dx.doi.org/10.1145/2736277.2741099,claims,"When people search for information on the web, they mostly end up accessing information they agree with.",
+http://dx.doi.org/10.1145/2736277.2741099,claims,"Web sites about polarizing topics show in general low diversity in stances that are presented.",
+http://dx.doi.org/10.1145/2736277.2741099,claims,"If an external event threatens to influence certain web users directly, then these users afterwards tend to explore more content outside their filter bubble.",
+http://dx.doi.org/10.1145/2736277.2741130,claims,"When users receive more email messages in a day, they reply to a smaller fraction of them.",
+http://dx.doi.org/10.1145/2736277.2741130,claims,"When users receive more email messages in a day, they use shorter texts as replies.",
+http://dx.doi.org/10.1145/2736277.2741130,claims,"When users receive more email messages in a day, the time to reply decreases for the emails that are eventually answered.",
+http://dx.doi.org/10.1145/2736277.2741130,claims,"Email replies by teenagers are on average shorter than those by adults.",
+http://dx.doi.org/10.1145/2736277.2741130,claims,"Teenagers reply on average faster to emails than adults.",
+http://dx.doi.org/10.1145/2736277.2741094,claims,"Short summaries that are automatically generated - using features based on their characterizing and differentiating power, the information overlap between them, and their relevance to the context of entity mention - help human users carry out entity linking tasks more efficiently.",
+http://dx.doi.org/10.1145/2736277.2741666,claims,"Human navigation traces on the Web provide valuable information to detect missing hyperlinks.",
+http://dx.doi.org/10.1145/2736277.2741143,claims,"With provenance being prevalent within Linked Data and being highly selective, it can be used to improve query processing performance.",
+http://dx.doi.org/10.1145/2736277.2741121,claims,"On a wide variety of existing datasets, ""emergent"" relational schemas automatically extracted from RDF data cover more than 90% of the triples.",
+http://dx.doi.org/10.1145/2736277.2741103,claims,"Active learning techniques can make the manual construction of RDF data more efficient.",
+http://dx.doi.org/10.1145/2736277.2741628,claims,"The Inverse Document Frequency (IDF) of a term is equal to the distance between the term and the empty string in the space of information distance in which the Kolmogorov complexity is approximated using Web documents and the Shannon-Fano coding.",
+http://dx.doi.org/10.1145/2736277.2741673,claims,"Statistical language models for texts in social networks can be made more accurate by smoothing the language model via influence propagation.",
+http://dx.doi.org/10.1145/2736277.2741688,claims,"Quoting patterns can be used to quantify and characterize the degree to which media outlets exhibit systematic bias.",
+http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The age of innovators at their first invention is increasing over time.",
+http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The degree of specialization of innovators is increasing over time.",
+http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"Team sizes for groups of innovators are increasing over time.",
+http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"Teamwork between innovators is more prevalent in fields with deeper knowledge.",
+http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The degree of specialization of innovators is greater in fields with deeper knowledge.",
+http://dx.doi.org/10.1111/j.1467-937X.2008.00531.x,claims,"The age of innovators at their first invention is similar across fields of different knowledge depth.",
 http://papers.nips.cc/paper/4824-imagenet,claims,"Deep learning is a powerful and accurate method for automatic image recognition.",http://dx.doi.org/10.1038/nature14539
 http://dx.doi.org/10.1109/TPAMI.2012.231,claims,"Deep learning is a powerful and accurate method for automatic image recognition.",http://dx.doi.org/10.1038/nature14539
 http://papers.nips.cc/paper/5573-stochastic-network-design-in-bidirected-trees,claims,"Deep learning is a powerful and accurate method for automatic image recognition.",http://dx.doi.org/10.1038/nature14539
@@ -114,8 +114,8 @@ http://dl.acm.org/citation.cfm?id=2078186,claims,"Deep learning is a powerful an
 http://anthology.aclweb.org/D/D14/D14-1067.pdf,claims,"Deep learning is a powerful and accurate method for automatic question answering.",http://dx.doi.org/10.1038/nature14539
 http://arxiv.org/abs/1412.2007,claims,"Deep learning is a powerful and accurate method for machine translation.",http://dx.doi.org/10.1038/nature14539
 http://papers.nips.cc/paper/5346-information-based-learning-by-agents-in-unbounded-state-spaces,claims,"Deep learning is a powerful and accurate method for machine translation.",http://dx.doi.org/10.1038/nature14539
-http://dx.doi.org/10.1073/pnas.1304917110,claims,"Ant colonies outperform individuals for difficult sensory discrimination tasks."
-http://dx.doi.org/10.1073/pnas.1304917110,claims,"Individual ants outperform ant colonies for easy sensory discrimination tasks."
-http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network,claims,"Convolutional neural networks are much easier to train than networks with full connectivity between adjacent layers."
-http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network,claims,"Convolutional neural networks are much easier to generalize than networks with full connectivity between adjacent layers."
-http://citation.allacademic.com/meta/p646657_index.html,claims,"Partnership ties are crucial in the formation of adult friendship networks."
+http://dx.doi.org/10.1073/pnas.1304917110,claims,"Ant colonies outperform individuals for difficult sensory discrimination tasks.",
+http://dx.doi.org/10.1073/pnas.1304917110,claims,"Individual ants outperform ant colonies for easy sensory discrimination tasks.",
+http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network,claims,"Convolutional neural networks are much easier to train than networks with full connectivity between adjacent layers.",
+http://papers.nips.cc/paper/293-handwritten-digit-recognition-with-a-back-propagation-network,claims,"Convolutional neural networks are much easier to generalize than networks with full connectivity between adjacent layers.",
+http://citation.allacademic.com/meta/p646657_index.html,claims,"Partnership ties are crucial in the formation of adult friendship networks.",
