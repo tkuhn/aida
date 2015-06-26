@@ -125,3 +125,5 @@ http://arxiv.org/abs/1502.05274,claims,"A geometric random walk with drift is a 
 http://dx.doi.org/10.1371/journal.pcbi.1003117,claims,"Speculative statements in scientific publications can be accurately retrieved by a pattern matching approach.",
 http://dx.doi.org/10.1038/nature11421,claims,"Strong ties are instrumental for spreading both online and real-world behavior in human social networks.",
 http://dx.doi.org/10.1126/science.1185231,claims,"Individual adoption of health behavior is much more likely when participants receive social reinforcement from multiple neighbors as compared to single neighbors in the social network.",
+http://dx.doi.org/10.1371/journal.pcbi.1002199,claims,"Information about vaccination flows more often between users who share the same sentiments about vaccination and less often between users who do not share the same sentiments than expected by chance alone.",
+http://dx.doi.org/10.1371/journal.pcbi.1002199,claims,"If clusters of negative vaccine sentiments in a social network lead to clusters of unprotected individuals, the likelihood of disease outbreaks is greatly increased.",
