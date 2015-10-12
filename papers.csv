@@ -228,3 +228,8 @@ http://dx.doi.org/10.2200/S00334ED1V01Y201102WBE001,claims,"It is important that
 http://dx.doi.org/10.1016/j.websem.2009.07.002,claims,"As exemplified by DBpedia, Wikipedia can be used in an efficient and accurate manner to extract Linked Data of structured general knowledge.",
 http://dx.doi.org/10.1016/j.websem.2009.07.002,claims,"DBpedia is a central interlinking hub for the Web of Data.",
 http://dx.doi.org/10.1016/j.websem.2009.07.002,claims,"A rich corpus of structured knowledge can be obtained from large-scale collaborations of end-users, who might not even be aware that they contribute to such a knowledge base.",
+http://ceur-ws.org/Vol-1467/LD4IE2015_Sleeman.pdf,claims,"Topic modeling techniques are helpful for entity type prediction.",
+http://ceur-ws.org/Vol-1467/LD4IE2015_Sleeman.pdf,claims,"Topic modeling techniques are helpful for entity disambiguation.",
+http://ceur-ws.org/Vol-1467/LD4IE2015_Sleeman.pdf,claims,"Topic modeling techniques are helpful for ontology alignment.",
+http://ceur-ws.org/Vol-1467/LD4IE2015_Sleeman.pdf,claims,"Topic modeling techniques are helpful for community detection.",
+
