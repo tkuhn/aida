@@ -235,4 +235,7 @@ http://ceur-ws.org/Vol-1467/LD4IE2015_Sleeman.pdf,claims,"Topic modeling techniq
 http://dx.doi.org/10.1007/978-3-319-25007-6_11,claims,"The high-level DOLCE-Zero ontology is helpful to find and fix systematic errors in the DBpedia knowledge base.",
 http://dx.doi.org/10.1007/978-3-319-25007-6_6,claims,"Approximate membership functions, such as Bloom filters and Golomb-coded sets, can help to reduce the bandwidth of RDF queries.",
 http://dx.doi.org/10.1007/978-3-319-25007-6_6,investigates,"Approximate membership functions, such as Bloom filters and Golomb-coded sets, can help to reduce the execution times of RDF queries.",
+http://dx.doi.org/10.1007/978-3-319-25007-6_32,claims,"The behavior - in terms of editing trails - of users editing ontologies is most strongly influended by the hierarchical structure of the ontology.",
+http://dx.doi.org/10.1007/978-3-319-25007-6_32,claims,"The behavior - in terms of editing trails - of users editing ontologies is most strongly influended by entity similarity apart from the hierarchical structure of the ontology.",
+http://dx.doi.org/10.1007/978-3-319-25007-6_32,claims,"The behavior - in terms of editing trails - of users editing ontologies is most strongly influended by semantic distance apart from the hierarchical structure of the ontology and entity similarity.",
 
