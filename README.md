@@ -46,3 +46,10 @@ AIDA sentences can be represented by URIs of the following form:
 - http://purl.org/aida/Malaria+is+transmitted+by+moquitoes.
 - http://purl.org/aida/The+degree+of+hepatic+reticuloendothelial+function+impairment+does+not+differ+between+cirrhotic+patients+with+and+without+previous+history+of+SBP.
 
+
+Related Repositories
+--------------------
+
+- [TomJansen25/Extracting-Core-Claims](https://github.com/TomJansen25/Extracting-Core-Claims)
+- [tkuhn/nanopubstudies-supplementary](https://github.com/tkuhn/nanopubstudies-supplementary)
+
