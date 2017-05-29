@@ -1,4 +1,4 @@
-URI,RELATION,AIDA-SENTENCE,VIA
+PUBLICATION,RELATION,AIDA-SENTENCE,VIA
 http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"Nanopublications containing informal assertions in the form of AIDA sentences are a practical approach to advance scientific communication.",
 http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"Scientists are able to efficiently produce high-quality nanopublications containing informal assertions in the form of AIDA sentences.",
 http://dx.doi.org/10.1007/978-3-642-38288-8_33,claims,"It is feasible to extract high-quality nanopublications containing informal assertions in the form of AIDA sentences from existing text resources.",
