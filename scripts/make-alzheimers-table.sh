@@ -10,7 +10,7 @@ TEMPLATE=`\
     | sed -r 's/^- TEMPLATE. "(.*)"$/\1/' \
   `
 
-echo "PUBLICATION,RELATION,AIDA-SENTENCE" \
+echo "SOURCE,RELATION,AIDA-SENTENCE" \
   > tables/alzheimers.csv
 
 cat usecases/alzheimers.md \

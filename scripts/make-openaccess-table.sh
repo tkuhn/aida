@@ -16,7 +16,7 @@ TEMPLATE=`\
     | sed -r 's/^- TEMPLATE. "(.*)"$/\1/' \
   `
 
-echo "PUBLICATION,RELATION,AIDA-SENTENCE" \
+echo "SOURCE,RELATION,AIDA-SENTENCE" \
   > tables/openaccess.csv
 
 cat usecases/openaccess.md \
