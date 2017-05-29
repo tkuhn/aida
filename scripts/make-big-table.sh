@@ -17,3 +17,7 @@ tail -n +2 tables/alzheimers.csv \
 tail -n +2 tables/openaccess.csv \
   | awk '{ print $0"," }' \
   >> tables/all.csv
+
+tail -n +2 tables/npuserstudy.csv \
+  | awk '{ print $0"," }' \
+  >> tables/all.csv
