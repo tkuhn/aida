@@ -50,7 +50,7 @@ Insights from Famous Computer Scientists as AIDA Sentences
 - Artificial intelligence can be achieved by using formal logic to represent and deduce information.
 - Common sense reasoning is a central component of artificial intelligence.
 
-#### Marvin Minsky (1927-*)
+#### Marvin Minsky (1927-2016)
 
 - _(with Seymour Papert)_ Single-layer perceptrons cannot learn the XOR relation.
 
