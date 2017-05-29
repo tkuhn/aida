@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Usage:
-# $ scripts/make-openaccess-table.sh
+# $ scripts/make-alzheimers-table.sh
 #
 
 TEMPLATE=`\
