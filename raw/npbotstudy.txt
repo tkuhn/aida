@@ -1,0 +1,191 @@
+# Source: https://github.com/tkuhn/nanopubstudies-supplementary/blob/master/botstudy/extract_evalresults.ods
+TAX,GENE,PMID,AIDA-SENTENCE
+9606,3146,22703527,"Serum HMGB1 is a desirable diagnostic and prognostic biomarker for PDAC compared with pre-existing pancreatic ductal adenocarcinoma (PDAC) biomarkers, CA19-9 and CEA."
+10090,12393,22223437,Targeting Runx2 in hypertrophic chondrocytes upregulates expression of Col10a1 and other marker genes (such as Sox9).
+10090,17319,22575600,MIF is essential for the development of neuropathic and inflammatory pain and for stress-induced enhancement of neuropathic pain.
+257310,2660615,22458330,"BfrA, BfrD and BfrE are catecholamine receptors and are involved in the utilization of iron liberated from transferrin by host catecholamine stress hormones."
+9606,64802,22842229,Mutations in NMNAT1 cause Leber congenital amaurosis with early-onset severe macular and optic atrophy.
+9606,10018,22645134,TRAIL induces recruitment of PACS-2 to lysosomes where it interacts with Bim and Bax to permeabilize lysosomes and trigger apoptosis.
+10090,22030,22711886,Expression of endogenous TRAF2 is negligible in Traf2DN-transgenic B cells compared with wild-type mice.
+511145,949122,22349271,Deletion of penicillin-binding protein 1b impairs biofilm formation and motility.
+9606,5663,22689582,Secretase subunits restrict the arrangement of the transmembrane domains of presenilin during the formation of the functional structure of the catalytic pore.
+559292,9164870,22379137,The function of the Tlc1 terminator region depends on the Nrd1/Nab3 transcription termination pathway.
+3702,817246,22608924,Selective nuclear import of mature AGO4/siRNA complexes is a key regulatory point prior to the effector stage of RdDM.
+10116,116484,22342837,Trx-1 is a therapeutic candidate for protecting against formaldehyde-induced neurotoxicity.
+9606,7157,22511763,TLP mediates p53-governed transcriptional activation of the p21 upstream promoter.
+10116,29477,22767602,Phosphorylation of SRp55 by Dyrk1A suppressed its ability to promote Tau exon 10 inclusion.
+9606,728635,23036705,DHRS4L1 is a duplicate syntenic form of the human DHRS4 gene.
+9606,1278,22815632,The rs42524 polymorphism in COL1A2 is a risk allele for neovascular age-related macular degeneration (nAMD) in a Han Chinese population.
+3702,2828219,22547782,The BIO3-BIO1 fusion protein is the sole protein form produced by the BIO3-BIO1 locus in Arabidopsis.
+9606,2719,22298472,Loss of glypican 3 is associated with metastasis in hepatocellular carcinoma.
+10116,50561,22561140,Resp18 gene expression varies with activation of the corpus ghrelin-secreting cells and the antral gastrin-secreting cells.
+9606,1571,22997752,CYP 2E1 -1293G/C polymorphism is not associated with dystrophic eye diseases.
+9606,1636,22396489,D allele and DD ACE genotype are risk factors for the vesicoureteral reflux susceptibility/renal scar in Turkish children.
+10090,387217,22660635,"MiR-23b suppresses IL-17-, tumor necrosis factor alpha (TNF-alpha)- or IL-1beta-induced NF-kappaB activation and inflammatory cytokine expression by targeting TAB2, TAB3 and IKK-alpha."
+9606,675,21476145,BRCA2 N372H polymorphism is associated with follicular lymphoma.
+10090,57765,22561605,T-bet is required for the survival and function of memory B cells in vivo.
+7227,34686,22786636,dMRP and MET are not the dominant methotrexate (MTX) transporters in the tubules when flies are reared on MTX-enriched diets.
+9606,11140,22727666,"A series of tyrosine phosphorylation events, involving both p50(Cdc37) and Hsp90, are minimally sufficient to provide directionality to the chaperone cycle."
+10090,18186,22790009,SEMA3A signalling through NRP1 has multiple cell-autonomous roles in sympathetic nervous system development.
+10090,18760,22636676,PKD facilitates contraction of cardiomyocytes by increasing Ca(2+) sensitivity and by an increased calcium-activated tension of contraction through phosphorylation of cMyBP-C.
+9606,4437,22343000,The binding of HIF-1alpha complexes to hypoxia response element sites is necessary for down-regulation of hMSH3 in both wt-p53 and mut-p53 cells.
+9606,1025,22895430,"The super elongation complex (SEC) is consisting of ELL, P-TEFb (CDK9) and MLL is required for rapid transcriptional induction in the presence or absence of paused RNA polymerase II (Pol II)."
+9606,3827,22701019,KNG1 and F11 are the main genetic regulators of plasma FXI level.
+9606,2146,22370893,EZH2 epigenetically silenced multiple miRNAs that negatively regulate hepatocellular carcinoma metastasis.
+10090,14083,22366060,In neurons FAK acts as a negative regulator of insulin/PI3K signaling.
+9606,8858,22576309,Specific PZ variants and haplotypes are significantly associated with Sickle cell disease Vaso-Occlusive Crisis.
+10090,15251,22150821,Hypoxia-inducible factor 1alpha protein is increased in the brain and liver of von Hippel-Lindau knock-out mice.
+9606,382,22523074,ARF6 activated by the LHCG receptor through the cytohesin family of guanine nucleotide exchange factors mediates the receptor internalization and signaling.
+633,3293166,22520462,YopJ subverts the Nod2/RICK/TAK1 pathway and activates caspase-1 to induce intestinal barrier dysfunction.
+9606,9607,22553341,Expression of CART in small bowel carcinoid tumors is associated with worse survival.
+9823,100127355,22718831,Foot-and-mouth disease virus 3C protease cleaves NEMO to impair innate immune signaling.
+3702,2828219,22547781,Ser phosphorylation of Arabidopsis thaliana RNAPII CTD is governed by CYCLIN-DEPENDENT KINASE F;1.
+559292,851752,22573320,"The toxicity of 103 glutamines (HttQ103) in yeast containing the [PSI(+)] prion is primarily due to sequestration of the essential protein, Sup35."
+233412,1490796,22686457,"The HdSOD is a heme-sensor protein, in which binding to small gaseous molecules modulates the enzyme superoxide activity as an adaptive response to the bacterial environment."
+511145,944877,22406830,The interaction between DNA polymerase III alpha and UmuD contributes to the transition between replicative and translesion synthesis polymerases by removing DNA polymerase III alpha from the beta clamp.
+6239,260100,22482727,Mir-71 functions in the nervous system to facilitate the localization and transcriptional activity of DAF-16 in the intestine.
+10090,14130,22692512,Regulatory dendritic cells can induce splenic B cells to differentiate into a distinct subtype of IL-10-producing regulatory B cells with unique phenotype CD19(hi)FcgammaIIb(hi).
+10359,3077439,22589554,Residues Glu-56 and Tyr-57 are essential for pUL50-pUL53 interaction.
+9606,4137,21919991,Ubiquitin targeting of tau protein occurs at neurofibrillary tangles in the early and intermediate maturation stages.
+99287,2829957,22623980,LsrR-mediated quorum sensing controls invasiveness of Salmonella typhimurium by regulating SPI-1 and flagella genes.
+10116,171373,22441041,SNARE proteins are necessary for the increased activity of KCC2 after Zn(2+) stimulation of mZnR/GPR39.
+6239,3896872,23112336,"Ntc-1 encodes a VP/OT-related peptide, nematocin, that signals through the NTR-1 receptor."
+9606,2052,22524818,Low microsomal epoxide hydrolase expression is associated with bladder carcinogenesis and recurrence.
+9606,673,22824468,Single Nucleotide Polymorphisms in BRAF gene is associated with diseases.
+10116,29240,22651551,The closed state of E295K has a more distorted active site than the active site in the wild-type Polb.
+10090,20677,22627767,Sox4 and CREB cooperate and contribute to increased proliferation of hematopoietic progenitor cells.
+9606,2109,22588007,Point mutations in electron-transfer-flavoprotein beta is associated with destabilized conformations and defective protein:protein interactions leading to mitochondrial dysfunction.
+7955,553166,22898304,The phosphorylation of Dpysl2 and Dpysl3 by Cdk5 and DYRK2 is required for the proper positioning of Rohon-Beard neurons and neural crest cells during neurulation in zebrafish embryos.
+9606,407011,22660635,"MiR-23b suppresses IL-17-, tumor necrosis factor alpha (TNF-alpha)- or IL-1beta-induced NF-kappaB activation and inflammatory cytokine expression by targeting TAB2, TAB3 and IKK-alpha."
+10090,22408,22572818,Wnt1 is anti-lymphangiogenic by suppressing melanoma-derived VEGF-C expression.
+9606,9227,22605381,Acyl-modified forms of HRAS-like tumor suppressors HRASLS2 and HRASLS3 are mimicking lipolytic activity of lecithin retinol acyltransferase LRAT.
+10090,18799,22805570,Loss of phospholipase Cdelta1 from keratinocytes causes features of interleukin-17-associated inflammatory skin diseases.
+9606,55799,22644305,Expression of CACNA2D3 mRNA is regulated in breast cancer cell lines by methylation in the CpG island located in the 5' regulatory region of the gene.
+9606,999,22638108,Rab7 siRNA knockdown causes increased E-cadherin.
+9606,1026,22683204,"In response to replicative stress and unresolved DNA damage, p53 is hyperactivated in FA cells and triggers a late p21(Cdkn1a)-dependent G0/G1 cell-cycle arrest."
+10116,25636,20147366,Vacuolar H+-ATPase apical accumulation in kidney intercalated cells is regulated by PKA and AMP-activated protein kinase.
+559292,853554,22185758,"The Bud4, along with Gin4 and cla4, is part of a complex network that regulates septins organizaon at the time of cytokinesis."
+10090,16772,22761447,alpha1- and alpha5-containing laminins differentially regulate the sequential events to form epithelial tissues via beta1 integrin signals.
+9940,2828237,22426621,Prolactin and epidermal growth factor stimulate adipophilin synthesis in HC11 mouse mammary epithelial cells via the PI3-kinase/Akt/mTOR pathway.
+10090,76477,22610170,PCOLCE2 is required for efficient procollagen processing and deposition of fibrillar collagen in the pressure-overloaded myocardium.
+9606,79923,21336986,Overexpression of Nanog protein is associated with gastric adenocarcinoma.
+7227,12798012,22814608,"Let-7 and miR-125, cotranscribed from the let-7-complex locus, regulate the transcription factor chinmo to control temporal cell fate in the mushroom body (MB) lineage."
+9606,80760,22616691,ITIH5 gene expression is regulated both by obesity and by the region between visceral and subcutaneous adipose tissue.
+10090,18145,22325094,At least in the somatosensory neocortex NPC1 protein is instrumental in synaptic function.
+9606,3570,22295972,IL6R alpha is co-localized with melanin-concentrating hormone in the hypothalamus.
+9606,23002,22655072,Wnt5a promotes breast cancer cell migration via Dvl2/Daam1/RhoA.
+10090,114229,22340076,Gonadal steroids are essential for the induction of kisspeptin expression in the rostral periventricular area of the third ventricle during pubertal development in the male mouse.
+9606,8803,22740690,X-linked sideroblastic anemia is due to carboxyl-terminal ALAS2 mutations that cause loss of binding to the beta-subunit of succinyl-CoA synthetase (SUCLA2).
+9606,83552,22565643,Posterior microphthalmos can be caused by nonsense compound heterozygous mutations in the MFRP gene.
+9606,6615,22580338,High snail1 is associated with migration and invasion of tongue squamous cell carcinoma.
+9606,26047,22690117,"The variants, rs1404699 and rs7803992, of CNTNAP2 are associated with exfoliation syndrome in the Japanese population."
+9606,9,21837760,The 5'-UTRs of arylamine N-acetyltransferase 1 (NAT1) are differentially regulated.
+9606,672,22034289,BRCA1 mutations are associated with unselected Nigerian breast cancer patients.
+9606,3635,22706086,The CD2AP/SHIP1 complex and Cbl are recruited to blood dendritic cell (DC) antigen 2 (BDCA2) and Fc fragment of IgE high affinity I receptor (FcepsilonR1)gamma complex after BDCA2 cross-linking in human primary plasmacytoid DCs.
+9606,6772,22811740,Opsonized live M. avium is phagocytosed by macrophages involving membrane receptors not related with JAK/STAT1 signalling pathway.
+10090,16518,22496522,Kir2.1 is required for I(K1) in type II utricle hair cells.
+9606,9212,22722494,Inhibition of AURKB induces stronger apoptotic responses in tetraploid than diploid cells.
+10090,17125,22701694,Activation of BMP-Smad1/5/8 signaling promotes survival of retinal ganglion cells after damage in vivo.
+9606,6597,22814607,Sox10 functions in Schwann cells by recruiting Brg1-containing chromatin-remodeling complexes.
+3702,835478,22514090,SPT negatively regulates CUC1 and CUC2 expression in the apical part of the gynoecium.
+10090,20682,22874919,Organ fate commitment and progenitor cell expansion are coordinately controlled by the activity of a Sox9/Fgf10/Fgfr2b feed-forward loop in the pancreatic niche.
+96563,10941583,22659337,AmtB proteins play a role in controlling the internal pool of ammonia within the cell.
+9606,4775,22749879,NFAT4 and NF-kappaB interact at the KB element to co-operatively activate both human polyomavirus JC early and late transcription and viral DNA replication.
+10090,16171,22633287,The hierarchical process of antibody-secreting cells differentiation triggered by venom needs the signal derived from IL-5 and IL-17A.
+9606,2896,22623979,Inactivation of CDK/pRb pathway normalizes survival pattern of lymphoblasts expressing the FTLD-progranulin mutation c.709-1G>A.
+9606,3416,20880607,The polymorphism of insulin-degrading enzyme is associated with susceptibility to Alzheimer's disease in Han Chinese.
+10090,12266,22518005,Kidney injury accelerates cystogenesis via pathways modulated by heme oxygenase and complement.
+9606,1950,21567271,rs4444903 polymorphism in EGF gene is not associated with sporadic colorectal cancer.
+9606,49,22452365,DNA immunization against proacrosin impairs fertility in male mice.
+9606,27329,22659251,Familial combined hypolipidemia segregates as a recessive trait so that apolipoprotein B- and apolipoprotein A-I-containing lipoproteins are comprehensively affected only by the total deficiency of Angptl3.
+10116,89807,22336210,"Dynamic temporal changes in VEGF, Ang-1 and Ang-2 expression stimulate the cerebral angiogenesis after focal cerebral ischemia."
+6239,179779,22590572,C. elegans EIF-3.K promotes programmed cell death through CED-3 caspase.
+9606,891,22071694,Cdk1/cyclin B1-dependent hyper-phosphorylation of Bim during prolonged mitotic arrest is an important cell death signal.
+9606,324,22496417,The Smad7-APC complex links the TGFbeta type I receptor to the microtubule system to regulate directed cellular extension and migratory responses evoked by TGFbeta.
+9606,596,20981461,"The reason for the aggressive behaviour is the overexpression of pro-proliferative (MYC) and anti-apoptotic (BCL2, BCL6) oncoproteins at the same time."
+3702,837296,22635117,An AP180 amino-terminal homology/epsin amino-terminal homology domain-containing protein from Arabidopsis (Arabidopsis thaliana) is involved in clathrin-coated vesicle formation from the cell plate.
+9606,207,22336203,Endometrial carcinoma patients with loss of PTEN and p-AKT positivity have a favorable prognosis.
+216594,6226027,22361940,papA5 is required for production of both phenolic glycolipids and phthiocerol dimycocerosates.
+10090,21784,22034055,Loss of Tff1 and high expression of cox2 are associated with gastric adenomas.
+10090,15208,22956844,Simultaneous overexpression of Hes5 and Sox21 reveals Hes5 as a downstream effector of Sox21 in adult hippocampus neurogenesis.
+9606,6431,22767602,Phosphorylation of SRp55 by Dyrk1A suppressed its ability to promote Tau exon 10 inclusion.
+9606,3162,22271370,Long (GT)n repeats in the HO-1 gene promoter are associated with a higher risk of malignant mesothelioma in the Japanese population.
+10090,13982,22761311,Estrogen-receptor-alpha tetradian oscillation is necessary to generate pulses of expression in genes for fatty acid and cholesterol synthesis.
+9606,3159,22199144,HMGA1B mediates PIT1 over-expression in pituitary neoplasms.
+9606,50515,22317973,Reduced C4ST-1 expression and chondroitin sulfation imbalance are mediating the effects of oncogenic HRAS signaling in the pathogenesis of Costello syndrome.
+813,2827981,22624979,Pbp2 and MreB are required for normal chlamydial cell division.
+10116,50655,22544036,The RNA-binding and aconitase forms of IRP-1 can undergo interconversion dependent on the density of cells growing in culture.
+9606,26762,22857392,The -416G>C polymorphism of the TIM-1 gene is associated with childhood allergic asthma.
+10090,12454,22547058,Cyclin K-containing kinase complexes maintain self-renewal in murine embryonic stem cells.
+10090,12159,22474292,Scx and Id1 are involved in the BMP4-Smad1-SMA signal transduction pathway besides the TGFbeta1-Smad1-SMA signaling pathway and modulate phenotypic changes in MCs in diabetic nephropathy.
+9606,91010,22790947,Protein N-myristoylation plays critical roles in the cellular morphological changes induced by FMNL2 and FMNL3.
+9606,5292,22720752,"The C-terminus of human PIM-1 kinase isoform2, a serine/threonine kinase of the calcium/calmodulin-regulated kinase family, directly interacts with VDR through the receptor's DNA-binding domain."
+9606,3958,21553103,High Galectin-3 is associated with undifferentiated nasopharyngeal carcinoma.
+10090,18507,22669466,Pax5 controls B-cell identity and function by regulating distinct target genes in early and late B lymphopoiesis.
+10090,18750,22531726,Protein kinase C is associated with the reduction of aggregated protein and phosphorylation of CREB in aggregated protein-loaded glomeruli.
+9606,345611,22713085,"IRGM rs4958847 polymorphism influences susceptibility to gastric cancer, mainly for the intestinal type."
+9606,4659,22516431,Site-specific phosphorylation of protein phosphatase 1 regulatory subunit 12A is stimulated or suppressed by insulin.
+9606,7273,22523089,Spontaneous dimerization of titin protein Z1Z2 domains induces strong nanomechanical anchoring.
+10090,19267,22722941,Multifaceted modulation of K+ channels by protein-tyrosine phosphatase epsilon tunes neuronal excitability.
+192222,904508,22343355,Phase variation in contingency genes Cj0045 and Cj0170 strongly associates with colonization and disease in mice.
+10090,26417,22784206,Erk1/2 signaling within oligodendrocytes exerts an important and direct effect to promote myelination.
+9606,545,22621920,Acute myeloid leukemia differentiation can be induced through ATP depletion and the subsequent activation of DNA damage signaling through an ATR/Chk1-dependent and p53-independent pathway.
+10116,140908,22778260,Phosphorylation of gephyrin in hippocampal neurons by cyclin-dependent kinase CDK5 at Ser-270 is dependent on collybistin.
+10090,12142,22733990,Alternative splicing regulates Blimp-1 recruitment of corepressors and DNA binding activity.
+451516,5776090,22685286,"Rot and SaeR, the response regulator of the Sae TCS, synergize to coordinate the activation of the ssl promoters."
+9606,4868,22718751,Dynamin-mediated Nephrin phosphorylation regulates glucose-stimulated insulin release in pancreatic beta cells.
+9606,2220,22693230,FCN2 promoter variants (-986G>A and -4A>G) influence ficolin-2 serum levels and susceptibility to schistosomiasis.
+9606,5629,22647876,Prox1 is a direct upstream modifier of Nkx2.5 by maintaining the adult conduction system and rescue of Nkx2.5 conduction disease phenotypes.
+9606,4137,22613722,"Monoubiquitination promotes calpain cleavage of the protein phosphatase 2A (PP2A) regulatory subunit alpha4, altering PP2A stability and microtubule-associated protein phosphorylation."
+7227,31678,22814603,"CHES-1-like controls the division of cardiac progenitors by regulating the activity of Polo, a kinase involved in multiple steps of mitosis."
+10116,301965,21141566,Telomerase activation is present in ovary antral granulosa cells.
+9606,10397,22481237,Loss of NDRG1 is associated with tumor angiogenesis in lung cancer.
+9606,1956,22610259,Plasma EGFR mutations are associated with non-small cell lung cancer.
+10090,19697,22685314,Embryonic fibroblasts lacking either the p65 subunit of NF-kappaB or the IkappaB kinase alpha or IkappaB beta subunits of the NF-kappaB activator complex are more sensitive to complement-dependent cytotoxicity.
+9606,27343,22373917,DNA pol lambda and DNA ligase I are sufficient to promote efficient microhomology-mediated end-joining repair of broken DNA ends in vitro.
+9606,613,22230800,Bcr-abl kinase domain mutations during imatinib treatment are associated with recurrent bcr-abl positive acute lymphoblastic leukemia.
+9606,8929,22437207,Nearly 25% of congenital central hypoventilation syndrome patients carrying polyalanine expansion mutation inherit the PHOX2B mutation from parents with somatic mosaicism or constitutive mutation.
+10090,16816,22500017,Lecithin:cholesterol acyltransferase deficiency protects against cholesterol-induced hepatic endoplasmic reticulum stress in mice.
+10090,12159,22701669,Pitx homeoprotein family members bind a specific site in the Bmp4 incisor epithelium limb bud enhancer element that is necessary for its activity in vivo.
+511145,945549,22753058,MukBEF generates and maintains the cellular positioning of chromosome loci independently of DNA replication.
+9606,50943,22672991,The frequency of Foxp3(+)CD25(high) CD4(+)-T cells is augmented and correlated with the maintenance of a better cardiac function in indeterminate (IND) Chagas disease.
+7227,39753,22679484,"The non-cell autonomous induction of DIAP-1 is mediated by Yorkie, the conserved downstream effector of Hippo signaling."
+9606,192343,21988232,Exposure to high glucose increases miR-486-5p expression and inhibits SIRT1 expression in human adipose tissue-derived mesenchymal stem cells.
+9606,407006,21487968,Down-regulation of MiR-221 is associated with androgen-independent prostate carcinoma.
+9606,2697,22238282,Cx43-mediated GJIC and SLC1A5 interaction play important functional roles in trophoblast cell fusion.
+9606,6532,22434222,Sex modulates the interactive effect of the 5-HTTLPR genotype and CA on hippocampal volume.
+9606,406937,22592534,The miR-145 plays important inhibitory role in breast cancer malignancy by targeting N-RAS and VEGF-A.
+10090,30931,22588999,Mutations in torsin A gene lead to more frequent glutamate release in hippocampal neurons.
+7227,40232,22814603,"Jumu and CHES-1-like control the division of cardiac progenitors by regulating the activity of Polo, a kinase involved in multiple steps of mitosis."
+9606,7139,22264874,High-sensitive troponin T is associated with atrial fibrillation in a general population.
+9606,8877,22322056,"The expression of SPHK1 in gastric cancer is significantly associated with lymph node metastasis, distant metastasis and a poor prognosis."
+9606,5645,22357509,Elevation of urine trypsinogen 2 is an independent risk factor for pancreatic fistula after pancreaticoduodenectomy.
+9606,11186,22581300,Hypermethylated RASSF1A is an important modulating factor for the efficacy of docetaxel-based chemotherapy in breast cancer.
+10090,21938,22158049,p75 is essential for tumor angiogenesis and survival in highly vascularized murine lung tumor xenografts.
+10090,53612,22441041,SNARE proteins are necessary for the increased activity of KCC2 after Zn(2+) stimulation of mZnR/GPR39.
+9606,7421,22116536,Genetic polymorphisms of VDR are important in the clinical presentation of patients with calcium urolithiasis in the Han population of southern China.
+10116,29467,22705154,ERK1/2-dependent Best-3 activation regulates cell fate decisions during endoplasmic reticulum stress by suppressing CHOP induction and death.
+10090,18643,22693641,"ACE2 deficiency enhances angiotensin II-mediated aortic profilin-1 expression, inflammation and peroxynitrite production."
+9606,7422,22612467,The VEGF -634CC genotype is a risk factor of ONFH in the Chinese population.
+10090,18386,22609332,Delta opioid receptor activation inhibits anoxia-induced Na+ influx through Na+ channels via protein kinase C-dependent mechanisms in the cortex.
+9606,7157,22052810,TP53 codon 72 polymorphisms is not associated with recurrence in Wilms tumors.
+9606,79036,22554196,KXD1 interacts with BLOS1.
+3702,2828219,22335436,miR160 negatively affects the expression of ARF10 during shoot regeneration.
+9606,7157,22653586,Genotype Pro/Pro of codon 72 polymorphism in TP53 contributes significantly to endometriosis susceptibility in the Mexican population.
+9606,2475,22619175,Phosphoinositide-3-kinase/Akt and mammalian target of rapamycin (mTOR) pathway signaling differentially regulate phospho-Mst1-Thr-120/Thr-183.
+9606,5290,22188534,Mutations in ras PIK3CA are present in benign lichenoid keratosis.
+9606,4524,22373582,"Polymorphisms in methylenetetrahydrofolate reductase (MTHFR) and methionine synthase reductase (MTRR) modulate the risk for breast cancer, particularly the A1298C polymorphism of the MTHFR gene."
+10090,214444,22875938,CDK5RAP2 is a key molecule that mediates functional interaction and is essential for centrosomal targeting of Aurora-A.
+10090,11920,22578416,Oocytes lack an efficient DNA damage checkpoint because they fail to effectively activate ATM kinase.
+10116,84578,22395468,Maternal high fat exposure represses p16 (INK4a) gene expression in the mammary gland of offspring through changes of histone modifications and HDAC3 binding activity within the regulatory regions of the p16 (INK4a) gene.
+9606,6469,22811598,(1)(3)(1)I-SHH is capable of in vivo detection of breast tumors with high HH signaling.
+9606,1565,22803153,There is an association between CYP2D6 (1846G/A) genotype and rapid liver cirrhosis development.
+9606,664,22458929,BNIP3 expression and TGM2 expression are independent prognostic factors in laryngeal SCC patients receiving postoperative radiotherapy.
+10090,13800,22908313,Fibroblasts require Mena for multiple integrin alpha5beta1-dependent processes involving bidirectional interactions between the extracellular matrix and cytoplasmic focal adhesion proteins.
+7955,58137,22899848,Celf1-dependent fine-tuning of dmrt2a expression is essential for generating bilateral symmetry of somites and left-right asymmetric patterning during zebrafish development.
+9606,10232,22729037,High SMRP is associated with mesothelioma in pleural effusions.
+4530,3974662,21910771,APO2 suppresses the transition from inflorescence meristem to floral meristem through interaction with APO1.
+9606,9700,22814604,"By consecutively acting as a protease and a cdk1 inhibitor, separase coordinates two key processes to achieve simultaneous and abrupt separation of sister chromatids."
+3702,830794,22318862,AtPI4KIIIbeta1 and AtPI4KIIIbeta2 can both act upstream of the PI-PLC.
+9606,1116,22211103,ERK1/2 phosphorylation by CHI3L1 leads to a proliferative signal.
+559292,853900,22959268,"Unlike activators or repressors that act as an on/off switch of transcription, Set3C instead plays an important role in the timing of transcription response during gene activation or repression."

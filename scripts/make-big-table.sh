@@ -21,3 +21,7 @@ tail -n +2 tables/openaccess.csv \
 tail -n +2 tables/npuserstudy.csv \
   | awk '{ print $0"," }' \
   >> tables/all.csv
+
+tail -n +2 tables/npbotstudy.csv \
+  | sed -r 's/^([^,]*,[^,]*,".*"),[^,]*,[^,]*$/\1,/' \
+  >> tables/all.csv
