@@ -4,7 +4,9 @@ Publications on Open Access Citation Advantage
 Source
 ------
 
-From: http://sparceurope.org/oaca_table/
+Originally from: http://sparceurope.org/oaca_table/
+
+The above website is down, but the content is accessible here: https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/
 
 
 AIDA Sentences
