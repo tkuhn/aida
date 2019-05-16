@@ -14,8 +14,8 @@ AIDA is a scheme for English sentences. Such sentences are:
   "probably" or "evaluation showed that"); typically in present tense
 
 
-Publication
------------
+Publications
+------------
 
 See the following publications for the details:
 
