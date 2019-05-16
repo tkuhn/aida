@@ -17,12 +17,16 @@ AIDA is a scheme for English sentences. Such sentences are:
 Publication
 -----------
 
-See the following paper for the details:
+See the following publications for the details:
 
+- Tobias Kuhn. [Using the AIDA Language to Formally Organize Scientific
+  Claims](https://doi.org/10.3233/978-1-61499-904-1-52). In _Proceedings of the
+  Sixth International Workshop on Controlled Natural Language (CNL 2018)_. IOS
+  Press, 2018.
 - Tobias Kuhn, Paolo Emilio Barbano, Mate Levente Nagy, and Michael Krauthammer.
-  Broadening the Scope of Nanopublications. In _Proceedings of the 10th Extended
-  Semantic Web Conference (ESWC)_. Springer, 2013.
-  http://arxiv.org/abs/1303.2446
+  [Broadening the Scope of Nanopublications.](http://www.tkuhn.org/pub/kuhn2013eswc.pdf)
+  In _Proceedings of the 10th Extended Semantic Web Conference (ESWC)_.
+  Springer, 2013.
 
 
 Examples
