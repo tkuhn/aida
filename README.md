@@ -51,6 +51,33 @@ AIDA sentences can be represented by URIs of the following form:
 - http://purl.org/aida/The+degree+of+hepatic+reticuloendothelial+function+impairment+does+not+differ+between+cirrhotic+patients+with+and+without+previous+history+of+SBP.
 
 
+Website
+-------
+
+The `docs` directory contains the AIDA website, made to be served with GitHub
+Pages (repository settings > Pages > deploy from branch `master`, folder
+`/docs`):
+
+- `index.html` is the landing page.
+- `s/index.html` shows a single AIDA sentence, given URL-encoded after a `?`
+  as in `s/?Malaria+is+transmitted+by+mosquitoes.`, together with its URI and
+  the sources linked to it.
+- `404.html` forwards any other path to that sentence page, so that
+  `/aida/Malaria+is+transmitted+by+mosquitoes.` works too (but is first
+  answered with HTTP status 404).
+- `data/sentences.json` holds the sources of each sentence. It is generated
+  from `tables/all.csv` with `scripts/make-site-data.py`, which also prints
+  the sentence and source counts shown on the landing page.
+- `usecases/*/index.html` are the use case pages. They are generated from the
+  Markdown files in `usecases` with `scripts/make-site-usecases.py` and should
+  not be edited by hand.
+
+For `http://purl.org/aida/...` URIs to end up on the website, the PURL has to
+be a partial redirect to the address of the sentence page followed by `?`,
+that is `<site address>/s/?`. A partial redirect to the site address itself
+works as well, via `404.html`.
+
+
 Related Repositories
 --------------------
 

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AIDA sentence</title>
+<meta name="description" content="An AIDA sentence: a claim or hypothesis written as a single Atomic, Independent, Declarative and Absolute English sentence, with the URI that identifies it.">
+<link rel="icon" href="../favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="wordmark" href="../">AIDA</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="../">What is AIDA?</a>
+      <a href="https://github.com/tkuhn/aida">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<!-- The sentence comes from the URL: s/?Malaria+is+transmitted+by+mosquitoes.
+     See aida.js. -->
+<main id="main" data-sentence-page>
+
+  <div data-found hidden>
+    <section class="wrap sentence-head">
+      <p class="eyebrow">AIDA sentence</p>
+      <h1 class="sentence" data-sentence></h1>
+    </section>
+
+    <section class="band compact">
+      <div class="wrap">
+        <div class="uri-row">
+          <code class="uri" data-uri></code>
+          <button type="button" class="button" data-copy>Copy URI</button>
+          <span class="visually-hidden" role="status" data-status></span>
+        </div>
+        <p class="about">This URI identifies a claim or hypothesis written as an AIDA sentence: Atomic, Independent, Declarative and Absolute. The sentence itself is the identifier, so a URI like this exists for any AIDA sentence without being registered anywhere. <a href="../">What is AIDA?</a></p>
+        <p class="about" data-hint hidden>AIDA sentences end with a full stop. If this link lost its final dot, you are probably looking for: <a data-hint-link></a></p>
+      </div>
+    </section>
+
+    <section class="wrap sources" data-sources hidden>
+      <h2>Sources linked to this sentence</h2>
+      <div class="columns" data-source-columns></div>
+    </section>
+  </div>
+
+  <section class="wrap sentence-head" data-empty hidden>
+    <p class="eyebrow">AIDA sentence</p>
+    <h1 class="sentence">No sentence in this URL.</h1>
+    <p class="lead">This page shows the AIDA sentence given after the question mark, for example <a href="?Malaria+is+transmitted+by+mosquitoes.">Malaria is transmitted by mosquitoes.</a></p>
+  </section>
+
+  <noscript>
+    <section class="wrap sentence-head">
+      <p class="eyebrow">AIDA sentence</p>
+      <p class="lead">The URL of this page contains an AIDA sentence: replace each + with a space to read it. Showing it here needs JavaScript. <a href="../">What is AIDA?</a></p>
+    </section>
+  </noscript>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Atomic. Independent. Declarative. Absolute.</span>
+    <a href="https://github.com/tkuhn/aida">github.com/tkuhn/aida</a>
+  </div>
+</footer>
+
+<script src="../aida.js" defer></script>
+</body>
+</html>

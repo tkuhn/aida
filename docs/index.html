@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AIDA: a scheme to identify and link claims and hypotheses</title>
+<meta name="description" content="AIDA is a scheme to identify and link claims and hypotheses. Each one is written as a single Atomic, Independent, Declarative and Absolute English sentence, and that sentence becomes its URI.">
+<meta property="og:title" content="AIDA: a scheme to identify and link claims and hypotheses">
+<meta property="og:description" content="Each claim or hypothesis is written as a single Atomic, Independent, Declarative and Absolute English sentence, and that sentence becomes its URI.">
+<meta property="og:type" content="website">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&family=Space+Mono:wght@400;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="wordmark" href="./">AIDA</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="#scheme">Scheme</a>
+      <a href="#uris">URIs</a>
+      <a href="#use">In use</a>
+      <a href="#publications">Publications</a>
+      <a href="https://github.com/tkuhn/aida">GitHub</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+
+  <section class="wrap hero">
+    <h1 class="display">A scheme to identify and link claims and hypotheses.</h1>
+    <p class="lead">Each one is written as a single English sentence, and that sentence becomes its identifier. The sentence is:</p>
+  </section>
+
+  <section class="wrap properties" id="scheme">
+    <ol>
+      <li>
+        <span class="letter" aria-hidden="true">A</span>
+        <h2>Atomic</h2>
+        <p>A sentence describing one thought that cannot be further broken down in a practical way.</p>
+      </li>
+      <li>
+        <span class="letter" aria-hidden="true">I</span>
+        <h2>Independent</h2>
+        <p>A sentence that can stand on its own, without external references like “this effect” or “we”.</p>
+      </li>
+      <li>
+        <span class="letter" aria-hidden="true">D</span>
+        <h2>Declarative</h2>
+        <p>A complete sentence ending with a full stop that could in theory be either true or false.</p>
+      </li>
+      <li>
+        <span class="letter" aria-hidden="true">A</span>
+        <h2>Absolute</h2>
+        <p>A sentence describing the core of a claim, ignoring the (un)certainty about its truth and how it was discovered: no “probably” or “evaluation showed that”. Typically in present tense.</p>
+      </li>
+    </ol>
+  </section>
+
+  <section class="band" id="uris">
+    <div class="wrap">
+      <div class="example">
+        <h2 class="eyebrow">Every AIDA sentence has a URI</h2>
+        <p class="example-sentence">Malaria is transmitted by mosquitoes.</p>
+        <p class="uri">http://purl.org/aida/Malaria+<wbr>is+<wbr>transmitted+<wbr>by+<wbr>mosquitoes.</p>
+      </div>
+      <div class="converter" data-converter>
+        <div class="converter-text">
+          <p>The URI is the prefix <code>http://purl.org/aida/</code> followed by the URL-encoded sentence, with spaces written as <code>+</code>.</p>
+          <p>The same sentence always gives the same URI.</p>
+        </div>
+        <div class="converter-form">
+          <div class="field">
+            <label class="field-label" for="sentence">Type a sentence</label>
+            <input id="sentence" type="text" value="Malaria is transmitted by mosquitoes." autocomplete="off" autocapitalize="sentences" spellcheck="false" data-sentence-input>
+          </div>
+          <div class="field">
+            <span class="field-label">Its URI</span>
+            <code class="uri" data-uri-output>http://purl.org/aida/Malaria+is+transmitted+by+mosquitoes.</code>
+          </div>
+          <div class="actions">
+            <button type="button" class="button" data-copy>Copy URI</button>
+            <a href="s/?Malaria+is+transmitted+by+mosquitoes." data-open>Open its page →</a>
+            <span class="visually-hidden" role="status" data-status></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap section" id="use">
+    <div class="section-head">
+      <h2 class="display">629 sentences from 378 sources</h2>
+      <p>The repository links AIDA sentences to the publications and other sources that claim, investigate or refute them.</p>
+    </div>
+    <div class="columns">
+      <div class="column">
+        <h3>A Cochrane review on Alzheimer’s disease</h3>
+        <p>The conclusions and outcomes of one review article, restated as AIDA sentences.</p>
+        <a class="more" href="usecases/alzheimers/">Open the use case →</a>
+      </div>
+      <div class="column">
+        <h3>The Open Access citation advantage</h3>
+        <p>Publications that claim, investigate or refute one sentence and its field-specific variants.</p>
+        <a class="more" href="usecases/openaccess/">Open the use case →</a>
+      </div>
+      <div class="column">
+        <h3>Insights from famous computer scientists</h3>
+        <p>Landmark results from Babbage to Turing, each written as one sentence. Work in progress.</p>
+        <a class="more" href="usecases/famous-cs/">Open the use case →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap section publications" id="publications">
+    <h2 class="display">Publications</h2>
+    <ol class="rows">
+      <li>
+        <span class="year">2018</span>
+        <div class="pub">
+          <a href="https://doi.org/10.3233/978-1-61499-904-1-52">Using the AIDA Language to Formally Organize Scientific Claims</a>
+          <p>Tobias Kuhn. In Proceedings of the Sixth International Workshop on Controlled Natural Language (CNL 2018). IOS Press.</p>
+        </div>
+      </li>
+      <li>
+        <span class="year">2013</span>
+        <div class="pub">
+          <a href="http://www.tkuhn.org/pub/kuhn2013eswc.pdf">Broadening the Scope of Nanopublications</a>
+          <p>Tobias Kuhn, Paolo Emilio Barbano, Mate Levente Nagy, and Michael Krauthammer. In Proceedings of the 10th Extended Semantic Web Conference (ESWC). Springer.</p>
+        </div>
+      </li>
+    </ol>
+    <p class="related">
+      <strong>Related repositories</strong>
+      <a href="https://github.com/TomJansen25/Extracting-Core-Claims">TomJansen25/Extracting-Core-Claims</a>
+      <a href="https://github.com/tkuhn/nanopubstudies-supplementary">tkuhn/nanopubstudies-supplementary</a>
+    </p>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Atomic. Independent. Declarative. Absolute.</span>
+    <a href="https://github.com/tkuhn/aida">github.com/tkuhn/aida</a>
+  </div>
+</footer>
+
+<script src="aida.js" defer></script>
+</body>
+</html>

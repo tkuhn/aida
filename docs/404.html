@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page not found · AIDA</title>
+<script>
+// GitHub Pages serves this file for every path that does not exist. A path
+// like /aida/Malaria+is+transmitted+by+mosquitoes. is an AIDA sentence, so it
+// is forwarded to the sentence page. A literal "/" cannot occur in an encoded
+// sentence, so deeper paths are real 404s.
+(function () {
+  var m = /^(.*?\/aida\/)(.*)$/.exec(location.pathname);
+  window.AIDA_BASE = m ? m[1] : '/';
+  var rest = m ? m[2] : location.pathname.slice(1);
+  if (rest && rest !== '404.html' && rest.indexOf('/') === -1) {
+    location.replace(window.AIDA_BASE + 's/?' + rest);
+  }
+})();
+</script>
+<style>
+/* Inline, because this page is served at arbitrary paths. */
+body { margin: 0; min-height: 100vh; display: flex; flex-direction: column; justify-content: center; gap: 16px; padding: 32px; box-sizing: border-box; background: #FFDA3D; color: #111111; font: 18px/1.5 system-ui, -apple-system, 'Segoe UI', sans-serif; }
+p, h1 { margin: 0; }
+.wordmark { font-weight: 700; font-size: 28px; letter-spacing: 0.02em; }
+h1 { font-size: clamp(32px, 6vw, 56px); line-height: 1.05; letter-spacing: -0.02em; }
+a { color: inherit; text-underline-offset: 4px; }
+</style>
+</head>
+<body>
+<p class="wordmark">AIDA</p>
+<h1>Page not found.</h1>
+<p><a id="home" href="/aida/">Go to the AIDA website</a></p>
+<script>document.getElementById('home').href = window.AIDA_BASE;</script>
+</body>
+</html>
