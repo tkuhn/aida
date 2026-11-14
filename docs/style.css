@@ -235,9 +235,6 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
 .pub { flex: 1 1 420px; min-width: 0; display: flex; flex-direction: column; gap: 6px; }
 .pub a { font: 700 24px/1.2 var(--display); }
 .pub p { font-size: 16px; color: var(--ink-soft); }
-.related { display: flex; flex-wrap: wrap; align-items: center; gap: 0 32px; font-size: 16px; }
-.related strong { padding: 10px 0; font: 700 16px/1.4 var(--display); }
-.related a { display: inline-flex; align-items: center; min-height: 44px; overflow-wrap: anywhere; }
 
 
 /* Sentence page */
