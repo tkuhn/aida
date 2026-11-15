@@ -3,9 +3,11 @@
 # Usage:
 # $ scripts/make-site-data.py
 #
-# Writes docs/data/sentences.json from tables/all.csv: for each AIDA sentence,
-# the sources linked to it and their relations. The website's sentence pages
-# use this file to list the sources of a sentence.
+# Writes docs/data/sentences.json from tables/all.csv and the tables that are
+# not part of it: for each AIDA sentence, the sources linked to it and their
+# relations. The website's sentence pages use this file to list the sources of
+# a sentence. Prints the number of sentences and sources, which the landing
+# page (docs/index.html) shows.
 #
 
 import csv
@@ -13,16 +15,20 @@ import json
 import os
 import sys
 
+# tables/all.csv combines the other tables except for these.
+TABLES = ['all', 'jansenstudy']
+
 sentences = {}
 sources = set()
 
-with open('tables/all.csv', newline='', encoding='utf-8') as f:
-    for row in csv.DictReader(f):
-        link = [row['RELATION'], row['SOURCE']]
-        links = sentences.setdefault(row['AIDA-SENTENCE'], [])
-        if link not in links:
-            links.append(link)
-        sources.add(row['SOURCE'])
+for table in TABLES:
+    with open(f'tables/{table}.csv', newline='', encoding='utf-8') as f:
+        for row in csv.DictReader(f):
+            link = [row['RELATION'], row['SOURCE']]
+            links = sentences.setdefault(row['AIDA-SENTENCE'], [])
+            if link not in links:
+                links.append(link)
+            sources.add(row['SOURCE'])
 
 os.makedirs('docs/data', exist_ok=True)
 

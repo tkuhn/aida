@@ -66,11 +66,17 @@ Pages (repository settings > Pages > deploy from branch `master`, folder
   `/aida/Malaria+is+transmitted+by+mosquitoes.` works too (but is first
   answered with HTTP status 404).
 - `data/sentences.json` holds the sources of each sentence. It is generated
-  from `tables/all.csv` with `scripts/make-site-data.py`, which also prints
-  the sentence and source counts shown on the landing page.
+  from `tables/all.csv` and `tables/jansenstudy.csv` (which is not part of
+  `all.csv`) with `scripts/make-site-data.py`, which also prints the sentence
+  and source counts shown on the landing page.
 - `usecases/*/index.html` are the use case pages. They are generated from the
   Markdown files in `usecases` with `scripts/make-site-usecases.py` and should
   not be edited by hand.
+- `datasets/*/index.html` are the dataset pages. They are generated from the
+  tables `papers.csv`, `npuserstudy.csv`, `npbotstudy.csv` and
+  `jansenstudy.csv` with `scripts/make-site-datasets.py` and should not be
+  edited by hand either. The script prints the sentence counts shown on the
+  landing page. Both page scripts share `scripts/sitepage.py`.
 
 For `http://purl.org/aida/...` URIs to end up on the website, the PURL has to
 be a partial redirect to the address of the sentence page followed by `?`,
