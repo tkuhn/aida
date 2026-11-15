@@ -388,10 +388,12 @@ def page(slug, body):
 
 <main id="main">
 
-  <section class="wrap usecase-head">
-    <p class="eyebrow">Use case</p>
-    <h1 class="display">{esc(title)}</h1>
-    <p class="lead">{esc(lead)} Each sentence links to its own page.</p>
+  <section class="page-head">
+    <div class="wrap usecase-head">
+      <p class="eyebrow">Use case</p>
+      <h1 class="display">{esc(title)}</h1>
+      <p class="lead">{esc(lead)} Each sentence links to its own page.</p>
+    </div>
   </section>
 {body}
 

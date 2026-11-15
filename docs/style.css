@@ -1,9 +1,13 @@
-/* AIDA website: yellow ground, black ink, 3px rules. */
+/* AIDA website: white page, black ink, 3px rules. Yellow carries the
+   structure: the header and title of each page, a strip behind every section
+   heading, the column of the four letters, the footer, and the accents on the
+   black bands. Running text sits on white. */
 
 :root {
-  --ground: #FFDA3D;
+  --yellow: #FFDA3D;
   --ink: #111111;
-  --ink-soft: #2B2710;
+  --ink-soft: #444444;
+  --ink-soft-on-yellow: #2B2710;
   --paper: #FFFFFF;
   --on-ink-soft: #E6E6E6;
   --rule: 3px solid var(--ink);
@@ -29,7 +33,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: var(--ground);
+  background: var(--paper);
   color: var(--ink);
   font-family: var(--text);
   font-size: 17px;
@@ -43,9 +47,11 @@ ol, ul { padding: 0; list-style: none; }
 
 a { color: inherit; text-underline-offset: 4px; }
 a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
+main a:hover { background-color: var(--yellow); }
+.band a:hover { background-color: transparent; }
 
 :focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
-.band :focus-visible, .site-footer :focus-visible { outline-color: var(--paper); }
+.band :focus-visible { outline-color: var(--paper); }
 
 .wrap { max-width: 1160px; margin-inline: auto; padding-inline: var(--gutter); }
 
@@ -80,7 +86,7 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
   padding: 0 24px;
   border: 0;
   border-radius: 0;
-  background: var(--ground);
+  background: var(--yellow);
   color: var(--ink);
   font: 700 16px/1 var(--display);
   cursor: pointer;
@@ -90,7 +96,7 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
 
 /* Header and footer */
 
-.site-header { border-bottom: var(--rule); }
+.site-header { background: var(--yellow); border-bottom: var(--rule); }
 .site-header .wrap {
   display: flex;
   flex-wrap: wrap;
@@ -108,7 +114,7 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
 .site-nav { display: flex; flex-wrap: wrap; gap: 0 28px; font: 500 16px/1.4 var(--display); }
 .site-nav a { padding: 11px 0; text-decoration: none; }
 
-.site-footer { background: var(--ink); color: var(--paper); }
+.site-footer { background: var(--yellow); border-top: var(--rule); }
 .site-footer .wrap {
   display: flex;
   flex-wrap: wrap;
@@ -121,9 +127,33 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
 .site-footer span, .site-footer a { padding: 12px 0; }
 
 
+/* The title area of every page continues the yellow of the header. */
+
+.page-head { background: var(--yellow); --ink-soft: var(--ink-soft-on-yellow); }
+
+/* Section headings sit on a yellow strip that runs the full width of the
+   page: the shadow paints it beyond the content column, and the clip-path
+   trims the shadow to the height of the heading. */
+.section-head,
+.section > h2,
+.block:not(.notes) > h2,
+.sources > h2 {
+  padding-block: 24px;
+  background: var(--yellow);
+  box-shadow: 0 0 0 100vmax var(--yellow);
+  clip-path: inset(0 -100vmax);
+  --ink-soft: var(--ink-soft-on-yellow);
+}
+.section-head { padding-block: 40px; }
+.section > h2.display { padding-block: 32px; }
+
+/* A section that follows a black band starts with its strip right away. */
+.band + .section, .band + .block, .band + .sources { padding-top: 0; }
+
+
 /* Landing page: headline and the four properties */
 
-.hero { padding-top: 72px; display: flex; flex-direction: column; gap: 20px; }
+.hero { padding-top: 72px; padding-bottom: 72px; display: flex; flex-direction: column; gap: 20px; }
 .hero h1 { max-width: 940px; }
 .lead {
   max-width: 760px;
@@ -132,34 +162,43 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
   text-wrap: pretty;
 }
 
-.properties { padding-top: 56px; padding-bottom: 88px; }
+.properties { padding-top: 72px; padding-bottom: 88px; }
 .properties ol { border-top: var(--rule); }
 .properties li {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: clamp(96px, 14vw, 180px) minmax(0, 300px) minmax(0, 1fr);
+  column-gap: 40px;
   align-items: center;
-  gap: 8px 40px;
-  padding: 20px 0 24px;
   border-bottom: var(--rule);
 }
+/* The four letters share one yellow column, crossed by the rules. */
 .letter {
-  flex: 0 0 clamp(96px, 14vw, 180px);
-  font: 700 clamp(88px, 11vw, 140px)/0.9 var(--display);
-  letter-spacing: -0.04em;
+  align-self: stretch;
+  display: grid;
+  place-items: center;
+  padding-block: 16px;
+  background: var(--yellow);
+  font: 700 clamp(64px, 9vw, 120px)/1 var(--display);
 }
 .properties h2 {
-  flex: 0 1 300px;
+  padding-block: 24px;
   font: 700 clamp(28px, 3.2vw, 40px)/1.1 var(--display);
   letter-spacing: -0.01em;
 }
-.properties p { flex: 1 1 360px; font-size: 18px; color: var(--ink-soft); }
+.properties p { padding-block: 24px; font-size: 18px; color: var(--ink-soft); }
+@media (max-width: 900px) {
+  .properties li { grid-template-columns: clamp(84px, 14vw, 180px) minmax(0, 1fr); column-gap: 24px; }
+  .letter { grid-row: span 2; }
+  .properties h2 { align-self: end; padding-block: 20px 0; }
+  .properties p { align-self: start; padding-block: 6px 22px; }
+}
 
 
 /* Black band: example sentence and the sentence-to-URI converter */
 
 .band { background: var(--ink); color: var(--paper); }
 .band .wrap { padding-block: 88px; display: flex; flex-direction: column; gap: 64px; }
-.band .eyebrow, .band .uri { color: var(--ground); }
+.band .eyebrow, .band .uri { color: var(--yellow); }
 
 .example { display: flex; flex-direction: column; gap: 20px; }
 .example-sentence {
@@ -186,7 +225,7 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
   width: 100%;
   height: 56px;
   padding: 0 16px;
-  border: 3px solid var(--ground);
+  border: 3px solid var(--yellow);
   border-radius: 0;
   background: var(--paper);
   color: var(--ink);
@@ -281,7 +320,6 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
 .example-sentence.long { font-size: clamp(28px, 3.8vw, 48px); line-height: 1.06; }
 
 .block { padding-top: 64px; display: flex; flex-direction: column; gap: 28px; }
-.usecase-head + .block { padding-top: 8px; }
 .block > h2, .section > h2:not(.display) { font: 700 32px/1.1 var(--display); letter-spacing: -0.015em; }
 .block > .counted { display: flex; align-items: baseline; gap: 14px; }
 .counted .count { font-size: 72px; line-height: 0.9; letter-spacing: -0.03em; }
@@ -299,12 +337,12 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
 .slot {
   padding: 2px 8px;
   background: var(--ink);
-  color: var(--ground);
+  color: var(--yellow);
   font: 400 0.8em/1 var(--mono);
   white-space: nowrap;
 }
 .band .pattern { margin-top: 0; padding-top: 48px; border-top: 3px solid var(--paper); }
-.band .slot { background: var(--ground); color: var(--ink); }
+.band .slot { background: var(--yellow); color: var(--ink); }
 
 .chips {
   display: grid;
@@ -352,11 +390,13 @@ a:hover { text-decoration-line: underline; text-decoration-thickness: 3px; }
   :root { --gutter: 20px; }
   .usecase-head { padding-top: 40px; padding-bottom: 40px; }
   .block { padding-top: 48px; }
-  .hero { padding-top: 48px; }
-  .properties { padding-top: 40px; padding-bottom: 64px; }
-  .properties li { gap: 8px 24px; }
+  .hero { padding-top: 48px; padding-bottom: 48px; }
+  .properties { padding-top: 48px; padding-bottom: 64px; }
+  .properties li { column-gap: 20px; }
   .band .wrap { padding-block: 64px; gap: 48px; }
   .section { padding-top: 64px; }
+  .section-head { padding-block: 32px; }
+  .section > h2.display { padding-block: 24px; }
   .section:last-child { padding-bottom: 64px; }
   .sentence-head { padding-top: 40px; padding-bottom: 36px; }
 }

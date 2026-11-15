@@ -20,17 +20,21 @@
 </script>
 <style>
 /* Inline, because this page is served at arbitrary paths. */
-body { margin: 0; min-height: 100vh; display: flex; flex-direction: column; justify-content: center; gap: 16px; padding: 32px; box-sizing: border-box; background: #FFDA3D; color: #111111; font: 18px/1.5 system-ui, -apple-system, 'Segoe UI', sans-serif; }
+body { margin: 0; background: #FFFFFF; color: #111111; font: 18px/1.5 system-ui, -apple-system, 'Segoe UI', sans-serif; }
 p, h1 { margin: 0; }
+.head { display: flex; flex-direction: column; gap: 16px; padding: 32px 32px 48px; background: #FFDA3D; }
 .wordmark { font-weight: 700; font-size: 28px; letter-spacing: 0.02em; }
 h1 { font-size: clamp(32px, 6vw, 56px); line-height: 1.05; letter-spacing: -0.02em; }
+.home { padding: 32px; }
 a { color: inherit; text-underline-offset: 4px; }
 </style>
 </head>
 <body>
-<p class="wordmark">AIDA</p>
-<h1>Page not found.</h1>
-<p><a id="home" href="/aida/">Go to the AIDA website</a></p>
+<div class="head">
+  <p class="wordmark">AIDA</p>
+  <h1>Page not found.</h1>
+</div>
+<p class="home"><a id="home" href="/aida/">Go to the AIDA website</a></p>
 <script>document.getElementById('home').href = window.AIDA_BASE;</script>
 </body>
 </html>

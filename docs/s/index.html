@@ -30,9 +30,11 @@
 <main id="main" data-sentence-page>
 
   <div data-found hidden>
-    <section class="wrap sentence-head">
-      <p class="eyebrow">AIDA sentence</p>
-      <h1 class="sentence" data-sentence></h1>
+    <section class="page-head">
+      <div class="wrap sentence-head">
+        <p class="eyebrow">AIDA sentence</p>
+        <h1 class="sentence" data-sentence></h1>
+      </div>
     </section>
 
     <section class="band compact">
@@ -53,16 +55,20 @@
     </section>
   </div>
 
-  <section class="wrap sentence-head" data-empty hidden>
-    <p class="eyebrow">AIDA sentence</p>
-    <h1 class="sentence">No sentence in this URL.</h1>
-    <p class="lead">This page shows the AIDA sentence given after the question mark, for example <a href="?Malaria+is+transmitted+by+mosquitoes.">Malaria is transmitted by mosquitoes.</a></p>
+  <section class="page-head" data-empty hidden>
+    <div class="wrap sentence-head">
+      <p class="eyebrow">AIDA sentence</p>
+      <h1 class="sentence">No sentence in this URL.</h1>
+      <p class="lead">This page shows the AIDA sentence given after the question mark, for example <a href="?Malaria+is+transmitted+by+mosquitoes.">Malaria is transmitted by mosquitoes.</a></p>
+    </div>
   </section>
 
   <noscript>
-    <section class="wrap sentence-head">
-      <p class="eyebrow">AIDA sentence</p>
-      <p class="lead">The URL of this page contains an AIDA sentence: replace each + with a space to read it. Showing it here needs JavaScript. <a href="../">What is AIDA?</a></p>
+    <section class="page-head">
+      <div class="wrap sentence-head">
+        <p class="eyebrow">AIDA sentence</p>
+        <p class="lead">The URL of this page contains an AIDA sentence: replace each + with a space to read it. Showing it here needs JavaScript. <a href="../">What is AIDA?</a></p>
+      </div>
     </section>
   </noscript>
 
